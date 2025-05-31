@@ -1,0 +1,1234 @@
+{
+    "symbol": "AAPL",
+    "profile": {
+        "company_name": "Apple Inc.",
+        "exchange": "NASDAQ",
+        "industry": "Consumer Electronics",
+        "sector": "Technology",
+        "beta": 1.275,
+        "currency": "USD",
+        "description": "Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide. The company offers iPhone, a line of smartphones; Mac, a line of personal computers; iPad, a line of multi-purpose tablets; and wearables, home, and accessories comprising AirPods, Apple TV, Apple Watch, Beats products, and HomePod. It also provides AppleCare support and cloud services; and operates various platforms, including the App Store that allow customers to discover and download applications and digital content, such as books, music, video, games, and podcasts, as well as advertising services include third-party licensing arrangements and its own advertising platforms. In addition, the company offers various subscription-based services, such as Apple Arcade, a game subscription service; Apple Fitness+, a personalized fitness service; Apple Music, which offers users a curated listening experience with on-demand radio stations; Apple News+, a subscription news and magazine service; Apple TV+, which offers exclusive original content; Apple Card, a co-branded credit card; and Apple Pay, a cashless payment service, as well as licenses its intellectual property. The company serves consumers, and small and mid-sized businesses; and the education, enterprise, and government markets. It distributes third-party applications for its products through the App Store. The company also sells its products through its retail and online stores, and direct sales force; and third-party cellular network carriers, wholesalers, retailers, and resellers. Apple Inc. was founded in 1976 and is headquartered in Cupertino, California.",
+        "ipoDate": "1980-12-12",
+        "website": "https://www.apple.com",
+        "ceo": "Mr. Timothy D. Cook",
+        "fullTimeEmployees": "164000",
+        "image": "https://images.financialmodelingprep.com/symbol/AAPL.png",
+        "marketCap": 3497021241200.0,
+        "sharesOutstanding": 15408095000
+    },
+    "treasury_rate_10y": {
+        "date": "2024-11-01",
+        "year10": 4.37
+    },
+    "sector_pe_ratio": null,
+    "industry_pe_ratio": null,
+    "fillingDate_price": {
+        "date": "2024-11-08",
+        "close": 226.96
+    },
+    "current_price_info": {
+        "date": "2025-05-29",
+        "close": 199.95
+    },
+    "income_statement": [
+        {
+            "date": "2024-09-28",
+            "symbol": "AAPL",
+            "reportedCurrency": "USD",
+            "cik": "0000320193",
+            "fillingDate": "2024-11-01",
+            "acceptedDate": "2024-11-01 06:01:36",
+            "calendarYear": "2024",
+            "period": "FY",
+            "revenue": 391035000000,
+            "costOfRevenue": 210352000000,
+            "grossProfit": 180683000000,
+            "grossProfitRatio": 0.4620634982,
+            "researchAndDevelopmentExpenses": 31370000000,
+            "generalAndAdministrativeExpenses": 0,
+            "sellingAndMarketingExpenses": 0,
+            "sellingGeneralAndAdministrativeExpenses": 26097000000,
+            "otherExpenses": 0,
+            "operatingExpenses": 57467000000,
+            "costAndExpenses": 267819000000,
+            "interestIncome": 0,
+            "interestExpense": 0,
+            "depreciationAndAmortization": 11445000000,
+            "ebitda": 134661000000,
+            "ebitdaratio": 0.3443707085,
+            "operatingIncome": 123216000000,
+            "operatingIncomeRatio": 0.3151022287,
+            "totalOtherIncomeExpensesNet": 269000000,
+            "incomeBeforeTax": 123485000000,
+            "incomeBeforeTaxRatio": 0.3157901467,
+            "incomeTaxExpense": 29749000000,
+            "netIncome": 93736000000,
+            "netIncomeRatio": 0.2397125577,
+            "eps": 6.11,
+            "epsdiluted": 6.08,
+            "weightedAverageShsOut": 15343783000,
+            "weightedAverageShsOutDil": 15408095000,
+            "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000123/0000320193-24-000123-index.htm",
+            "finalLink": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000123/aapl-20240928.htm"
+        },
+        {
+            "date": "2023-09-30",
+            "symbol": "AAPL",
+            "reportedCurrency": "USD",
+            "cik": "0000320193",
+            "fillingDate": "2023-11-03",
+            "acceptedDate": "2023-11-02 18:08:27",
+            "calendarYear": "2023",
+            "period": "FY",
+            "revenue": 383285000000,
+            "costOfRevenue": 214137000000,
+            "grossProfit": 169148000000,
+            "grossProfitRatio": 0.4413112958,
+            "researchAndDevelopmentExpenses": 29915000000,
+            "generalAndAdministrativeExpenses": 0,
+            "sellingAndMarketingExpenses": 0,
+            "sellingGeneralAndAdministrativeExpenses": 24932000000,
+            "otherExpenses": 0,
+            "operatingExpenses": 54847000000,
+            "costAndExpenses": 268984000000,
+            "interestIncome": 3750000000,
+            "interestExpense": 3933000000,
+            "depreciationAndAmortization": 11519000000,
+            "ebitda": 125820000000,
+            "ebitdaratio": 0.3282674772,
+            "operatingIncome": 114301000000,
+            "operatingIncomeRatio": 0.2982141227,
+            "totalOtherIncomeExpensesNet": -565000000,
+            "incomeBeforeTax": 113736000000,
+            "incomeBeforeTaxRatio": 0.2967400237,
+            "incomeTaxExpense": 16741000000,
+            "netIncome": 96995000000,
+            "netIncomeRatio": 0.2530623426,
+            "eps": 6.16,
+            "epsdiluted": 6.13,
+            "weightedAverageShsOut": 15744231000,
+            "weightedAverageShsOutDil": 15812547000,
+            "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/0000320193-23-000106-index.htm",
+            "finalLink": "https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+        },
+        {
+            "date": "2022-09-24",
+            "symbol": "AAPL",
+            "reportedCurrency": "USD",
+            "cik": "0000320193",
+            "fillingDate": "2022-10-28",
+            "acceptedDate": "2022-10-27 18:01:14",
+            "calendarYear": "2022",
+            "period": "FY",
+            "revenue": 394328000000,
+            "costOfRevenue": 223546000000,
+            "grossProfit": 170782000000,
+            "grossProfitRatio": 0.4330963056,
+            "researchAndDevelopmentExpenses": 26251000000,
+            "generalAndAdministrativeExpenses": 0,
+            "sellingAndMarketingExpenses": 0,
+            "sellingGeneralAndAdministrativeExpenses": 25094000000,
+            "otherExpenses": 0,
+            "operatingExpenses": 51345000000,
+            "costAndExpenses": 274891000000,
+            "interestIncome": 2825000000,
+            "interestExpense": 2931000000,
+            "depreciationAndAmortization": 11104000000,
+            "ebitda": 130541000000,
+            "ebitdaratio": 0.3310467428,
+            "operatingIncome": 119437000000,
+            "operatingIncomeRatio": 0.302887444,
+            "totalOtherIncomeExpensesNet": -334000000,
+            "incomeBeforeTax": 119103000000,
+            "incomeBeforeTaxRatio": 0.3020404333,
+            "incomeTaxExpense": 19300000000,
+            "netIncome": 99803000000,
+            "netIncomeRatio": 0.2530964071,
+            "eps": 6.15,
+            "epsdiluted": 6.11,
+            "weightedAverageShsOut": 16215963000,
+            "weightedAverageShsOutDil": 16325819000,
+            "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/0000320193-22-000108-index.htm",
+            "finalLink": "https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm"
+        },
+        {
+            "date": "2021-09-25",
+            "symbol": "AAPL",
+            "reportedCurrency": "USD",
+            "cik": "0000320193",
+            "fillingDate": "2021-10-29",
+            "acceptedDate": "2021-10-28 18:04:28",
+            "calendarYear": "2021",
+            "period": "FY",
+            "revenue": 365817000000,
+            "costOfRevenue": 212981000000,
+            "grossProfit": 152836000000,
+            "grossProfitRatio": 0.4177935963,
+            "researchAndDevelopmentExpenses": 21914000000,
+            "generalAndAdministrativeExpenses": 0,
+            "sellingAndMarketingExpenses": 0,
+            "sellingGeneralAndAdministrativeExpenses": 21973000000,
+            "otherExpenses": 0,
+            "operatingExpenses": 43887000000,
+            "costAndExpenses": 256868000000,
+            "interestIncome": 2843000000,
+            "interestExpense": 2645000000,
+            "depreciationAndAmortization": 11284000000,
+            "ebitda": 123136000000,
+            "ebitdaratio": 0.3366054612,
+            "operatingIncome": 108949000000,
+            "operatingIncomeRatio": 0.2978237753,
+            "totalOtherIncomeExpensesNet": 258000000,
+            "incomeBeforeTax": 109207000000,
+            "incomeBeforeTaxRatio": 0.2985290459,
+            "incomeTaxExpense": 14527000000,
+            "netIncome": 94680000000,
+            "netIncomeRatio": 0.2588179336,
+            "eps": 5.67,
+            "epsdiluted": 5.61,
+            "weightedAverageShsOut": 16701272000,
+            "weightedAverageShsOutDil": 16864919000,
+            "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/0000320193-21-000105-index.htm",
+            "finalLink": "https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+        },
+        {
+            "date": "2020-09-26",
+            "symbol": "AAPL",
+            "reportedCurrency": "USD",
+            "cik": "0000320193",
+            "fillingDate": "2020-10-30",
+            "acceptedDate": "2020-10-29 18:06:25",
+            "calendarYear": "2020",
+            "period": "FY",
+            "revenue": 274515000000,
+            "costOfRevenue": 169559000000,
+            "grossProfit": 104956000000,
+            "grossProfitRatio": 0.3823324773,
+            "researchAndDevelopmentExpenses": 18752000000,
+            "generalAndAdministrativeExpenses": 0,
+            "sellingAndMarketingExpenses": 0,
+            "sellingGeneralAndAdministrativeExpenses": 19916000000,
+            "otherExpenses": 0,
+            "operatingExpenses": 38668000000,
+            "costAndExpenses": 208227000000,
+            "interestIncome": 3763000000,
+            "interestExpense": 2873000000,
+            "depreciationAndAmortization": 11056000000,
+            "ebitda": 81020000000,
+            "ebitdaratio": 0.2951386992,
+            "operatingIncome": 66288000000,
+            "operatingIncomeRatio": 0.2414731435,
+            "totalOtherIncomeExpensesNet": 803000000,
+            "incomeBeforeTax": 67091000000,
+            "incomeBeforeTaxRatio": 0.2443983025,
+            "incomeTaxExpense": 9680000000,
+            "netIncome": 57411000000,
+            "netIncomeRatio": 0.2091361128,
+            "eps": 3.31,
+            "epsdiluted": 3.28,
+            "weightedAverageShsOut": 17352119000,
+            "weightedAverageShsOutDil": 17528214000,
+            "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019320000096/0000320193-20-000096-index.htm",
+            "finalLink": "https://www.sec.gov/Archives/edgar/data/320193/000032019320000096/aapl-20200926.htm"
+        }
+    ],
+    "balance_sheet": [
+        {
+            "date": "2024-09-28",
+            "symbol": "AAPL",
+            "reportedCurrency": "USD",
+            "cik": "0000320193",
+            "fillingDate": "2024-11-01",
+            "acceptedDate": "2024-11-01 06:01:36",
+            "calendarYear": "2024",
+            "period": "FY",
+            "cashAndCashEquivalents": 29943000000,
+            "shortTermInvestments": 35228000000,
+            "cashAndShortTermInvestments": 65171000000,
+            "netReceivables": 66243000000,
+            "inventory": 7286000000,
+            "otherCurrentAssets": 14287000000,
+            "totalCurrentAssets": 152987000000,
+            "propertyPlantEquipmentNet": 45680000000,
+            "goodwill": 0,
+            "intangibleAssets": 0,
+            "goodwillAndIntangibleAssets": 0,
+            "longTermInvestments": 91479000000,
+            "taxAssets": 19499000000,
+            "otherNonCurrentAssets": 55335000000,
+            "totalNonCurrentAssets": 211993000000,
+            "otherAssets": 0,
+            "totalAssets": 364980000000,
+            "accountPayables": 68960000000,
+            "shortTermDebt": 22511000000,
+            "taxPayables": 26601000000,
+            "deferredRevenue": 8249000000,
+            "otherCurrentLiabilities": 50071000000,
+            "totalCurrentLiabilities": 176392000000,
+            "longTermDebt": 96548000000,
+            "deferredRevenueNonCurrent": 0,
+            "deferredTaxLiabilitiesNonCurrent": 0,
+            "otherNonCurrentLiabilities": 35090000000,
+            "totalNonCurrentLiabilities": 131638000000,
+            "otherLiabilities": 0,
+            "capitalLeaseObligations": 12430000000,
+            "totalLiabilities": 308030000000,
+            "preferredStock": 0,
+            "commonStock": 83276000000,
+            "retainedEarnings": -19154000000,
+            "accumulatedOtherComprehensiveIncomeLoss": -7172000000,
+            "othertotalStockholdersEquity": 0,
+            "totalStockholdersEquity": 56950000000,
+            "totalEquity": 56950000000,
+            "totalLiabilitiesAndStockholdersEquity": 364980000000,
+            "minorityInterest": 0,
+            "totalLiabilitiesAndTotalEquity": 364980000000,
+            "totalInvestments": 126707000000,
+            "totalDebt": 106629000000,
+            "netDebt": 76686000000,
+            "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000123/0000320193-24-000123-index.htm",
+            "finalLink": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000123/aapl-20240928.htm"
+        },
+        {
+            "date": "2023-09-30",
+            "symbol": "AAPL",
+            "reportedCurrency": "USD",
+            "cik": "0000320193",
+            "fillingDate": "2023-11-03",
+            "acceptedDate": "2023-11-02 18:08:27",
+            "calendarYear": "2023",
+            "period": "FY",
+            "cashAndCashEquivalents": 29965000000,
+            "shortTermInvestments": 31590000000,
+            "cashAndShortTermInvestments": 61555000000,
+            "netReceivables": 60985000000,
+            "inventory": 6331000000,
+            "otherCurrentAssets": 14695000000,
+            "totalCurrentAssets": 143566000000,
+            "propertyPlantEquipmentNet": 54376000000,
+            "goodwill": 0,
+            "intangibleAssets": 0,
+            "goodwillAndIntangibleAssets": 0,
+            "longTermInvestments": 100544000000,
+            "taxAssets": 17852000000,
+            "otherNonCurrentAssets": 36245000000,
+            "totalNonCurrentAssets": 209017000000,
+            "otherAssets": 0,
+            "totalAssets": 352583000000,
+            "accountPayables": 62611000000,
+            "shortTermDebt": 17382000000,
+            "taxPayables": 8819000000,
+            "deferredRevenue": 8061000000,
+            "otherCurrentLiabilities": 48435000000,
+            "totalCurrentLiabilities": 145308000000,
+            "longTermDebt": 106548000000,
+            "deferredRevenueNonCurrent": 0,
+            "deferredTaxLiabilitiesNonCurrent": 0,
+            "otherNonCurrentLiabilities": 38581000000,
+            "totalNonCurrentLiabilities": 145129000000,
+            "otherLiabilities": 0,
+            "capitalLeaseObligations": 12842000000,
+            "totalLiabilities": 290437000000,
+            "preferredStock": 0,
+            "commonStock": 73812000000,
+            "retainedEarnings": -214000000,
+            "accumulatedOtherComprehensiveIncomeLoss": -11452000000,
+            "othertotalStockholdersEquity": 0,
+            "totalStockholdersEquity": 62146000000,
+            "totalEquity": 62146000000,
+            "totalLiabilitiesAndStockholdersEquity": 352583000000,
+            "minorityInterest": 0,
+            "totalLiabilitiesAndTotalEquity": 352583000000,
+            "totalInvestments": 132134000000,
+            "totalDebt": 111088000000,
+            "netDebt": 81123000000,
+            "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/0000320193-23-000106-index.htm",
+            "finalLink": "https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+        },
+        {
+            "date": "2022-09-24",
+            "symbol": "AAPL",
+            "reportedCurrency": "USD",
+            "cik": "0000320193",
+            "fillingDate": "2022-10-28",
+            "acceptedDate": "2022-10-27 18:01:14",
+            "calendarYear": "2022",
+            "period": "FY",
+            "cashAndCashEquivalents": 23646000000,
+            "shortTermInvestments": 24658000000,
+            "cashAndShortTermInvestments": 48304000000,
+            "netReceivables": 60932000000,
+            "inventory": 4946000000,
+            "otherCurrentAssets": 21223000000,
+            "totalCurrentAssets": 135405000000,
+            "propertyPlantEquipmentNet": 52534000000,
+            "goodwill": 0,
+            "intangibleAssets": 0,
+            "goodwillAndIntangibleAssets": 0,
+            "longTermInvestments": 120805000000,
+            "taxAssets": 15375000000,
+            "otherNonCurrentAssets": 28636000000,
+            "totalNonCurrentAssets": 217350000000,
+            "otherAssets": 0,
+            "totalAssets": 352755000000,
+            "accountPayables": 64115000000,
+            "shortTermDebt": 22773000000,
+            "taxPayables": 6552000000,
+            "deferredRevenue": 7912000000,
+            "otherCurrentLiabilities": 52630000000,
+            "totalCurrentLiabilities": 153982000000,
+            "longTermDebt": 109707000000,
+            "deferredRevenueNonCurrent": 0,
+            "deferredTaxLiabilitiesNonCurrent": 0,
+            "otherNonCurrentLiabilities": 38394000000,
+            "totalNonCurrentLiabilities": 148101000000,
+            "otherLiabilities": 0,
+            "capitalLeaseObligations": 12411000000,
+            "totalLiabilities": 302083000000,
+            "preferredStock": 0,
+            "commonStock": 64849000000,
+            "retainedEarnings": -3068000000,
+            "accumulatedOtherComprehensiveIncomeLoss": -11109000000,
+            "othertotalStockholdersEquity": 0,
+            "totalStockholdersEquity": 50672000000,
+            "totalEquity": 50672000000,
+            "totalLiabilitiesAndStockholdersEquity": 352755000000,
+            "minorityInterest": 0,
+            "totalLiabilitiesAndTotalEquity": 352755000000,
+            "totalInvestments": 145463000000,
+            "totalDebt": 132480000000,
+            "netDebt": 108834000000,
+            "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/0000320193-22-000108-index.htm",
+            "finalLink": "https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm"
+        },
+        {
+            "date": "2021-09-25",
+            "symbol": "AAPL",
+            "reportedCurrency": "USD",
+            "cik": "0000320193",
+            "fillingDate": "2021-10-29",
+            "acceptedDate": "2021-10-28 18:04:28",
+            "calendarYear": "2021",
+            "period": "FY",
+            "cashAndCashEquivalents": 34940000000,
+            "shortTermInvestments": 27699000000,
+            "cashAndShortTermInvestments": 62639000000,
+            "netReceivables": 51506000000,
+            "inventory": 6580000000,
+            "otherCurrentAssets": 14111000000,
+            "totalCurrentAssets": 134836000000,
+            "propertyPlantEquipmentNet": 49527000000,
+            "goodwill": 0,
+            "intangibleAssets": 0,
+            "goodwillAndIntangibleAssets": 0,
+            "longTermInvestments": 127877000000,
+            "taxAssets": 0,
+            "otherNonCurrentAssets": 38762000000,
+            "totalNonCurrentAssets": 216166000000,
+            "otherAssets": 0,
+            "totalAssets": 351002000000,
+            "accountPayables": 54763000000,
+            "shortTermDebt": 17141000000,
+            "taxPayables": 0,
+            "deferredRevenue": 7612000000,
+            "otherCurrentLiabilities": 45965000000,
+            "totalCurrentLiabilities": 125481000000,
+            "longTermDebt": 119381000000,
+            "deferredRevenueNonCurrent": 0,
+            "deferredTaxLiabilitiesNonCurrent": 0,
+            "otherNonCurrentLiabilities": 43050000000,
+            "totalNonCurrentLiabilities": 162431000000,
+            "otherLiabilities": 0,
+            "capitalLeaseObligations": 11803000000,
+            "totalLiabilities": 287912000000,
+            "preferredStock": 0,
+            "commonStock": 57365000000,
+            "retainedEarnings": 5562000000,
+            "accumulatedOtherComprehensiveIncomeLoss": 163000000,
+            "othertotalStockholdersEquity": 0,
+            "totalStockholdersEquity": 63090000000,
+            "totalEquity": 63090000000,
+            "totalLiabilitiesAndStockholdersEquity": 351002000000,
+            "minorityInterest": 0,
+            "totalLiabilitiesAndTotalEquity": 351002000000,
+            "totalInvestments": 155576000000,
+            "totalDebt": 136522000000,
+            "netDebt": 101582000000,
+            "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/0000320193-21-000105-index.htm",
+            "finalLink": "https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+        },
+        {
+            "date": "2020-09-26",
+            "symbol": "AAPL",
+            "reportedCurrency": "USD",
+            "cik": "0000320193",
+            "fillingDate": "2020-10-30",
+            "acceptedDate": "2020-10-29 18:06:25",
+            "calendarYear": "2020",
+            "period": "FY",
+            "cashAndCashEquivalents": 38016000000,
+            "shortTermInvestments": 52927000000,
+            "cashAndShortTermInvestments": 90943000000,
+            "netReceivables": 37445000000,
+            "inventory": 4061000000,
+            "otherCurrentAssets": 11264000000,
+            "totalCurrentAssets": 143713000000,
+            "propertyPlantEquipmentNet": 45336000000,
+            "goodwill": 0,
+            "intangibleAssets": 0,
+            "goodwillAndIntangibleAssets": 0,
+            "longTermInvestments": 100887000000,
+            "taxAssets": 0,
+            "otherNonCurrentAssets": 33952000000,
+            "totalNonCurrentAssets": 180175000000,
+            "otherAssets": 0,
+            "totalAssets": 323888000000,
+            "accountPayables": 42296000000,
+            "shortTermDebt": 15229000000,
+            "taxPayables": 0,
+            "deferredRevenue": 6643000000,
+            "otherCurrentLiabilities": 41224000000,
+            "totalCurrentLiabilities": 105392000000,
+            "longTermDebt": 107049000000,
+            "deferredRevenueNonCurrent": 0,
+            "deferredTaxLiabilitiesNonCurrent": 0,
+            "otherNonCurrentLiabilities": 46108000000,
+            "totalNonCurrentLiabilities": 153157000000,
+            "otherLiabilities": 0,
+            "capitalLeaseObligations": 9842000000,
+            "totalLiabilities": 258549000000,
+            "preferredStock": 0,
+            "commonStock": 50779000000,
+            "retainedEarnings": 14966000000,
+            "accumulatedOtherComprehensiveIncomeLoss": -406000000,
+            "othertotalStockholdersEquity": 0,
+            "totalStockholdersEquity": 65339000000,
+            "totalEquity": 65339000000,
+            "totalLiabilitiesAndStockholdersEquity": 323888000000,
+            "minorityInterest": 0,
+            "totalLiabilitiesAndTotalEquity": 323888000000,
+            "totalInvestments": 153814000000,
+            "totalDebt": 122278000000,
+            "netDebt": 84262000000,
+            "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019320000096/0000320193-20-000096-index.htm",
+            "finalLink": "https://www.sec.gov/Archives/edgar/data/320193/000032019320000096/aapl-20200926.htm"
+        }
+    ],
+    "cash_flow_statement": [
+        {
+            "date": "2024-09-28",
+            "symbol": "AAPL",
+            "reportedCurrency": "USD",
+            "cik": "0000320193",
+            "fillingDate": "2024-11-01",
+            "acceptedDate": "2024-11-01 06:01:36",
+            "calendarYear": "2024",
+            "period": "FY",
+            "netIncome": 93736000000,
+            "depreciationAndAmortization": 11445000000,
+            "deferredIncomeTax": 0,
+            "stockBasedCompensation": 11688000000,
+            "changeInWorkingCapital": 3651000000,
+            "accountsReceivables": -5144000000,
+            "inventory": -1046000000,
+            "accountsPayables": 6020000000,
+            "otherWorkingCapital": 3821000000,
+            "otherNonCashItems": -2266000000,
+            "netCashProvidedByOperatingActivities": 118254000000,
+            "investmentsInPropertyPlantAndEquipment": -9447000000,
+            "acquisitionsNet": 0,
+            "purchasesOfInvestments": -48656000000,
+            "salesMaturitiesOfInvestments": 62346000000,
+            "otherInvestingActivites": -1308000000,
+            "netCashUsedForInvestingActivites": 2935000000,
+            "debtRepayment": -5998000000,
+            "commonStockIssued": 0,
+            "commonStockRepurchased": -94949000000,
+            "dividendsPaid": -15234000000,
+            "otherFinancingActivites": -5802000000,
+            "netCashUsedProvidedByFinancingActivities": -121983000000,
+            "effectOfForexChangesOnCash": 0,
+            "netChangeInCash": -794000000,
+            "cashAtEndOfPeriod": 29943000000,
+            "cashAtBeginningOfPeriod": 30737000000,
+            "operatingCashFlow": 118254000000,
+            "capitalExpenditure": -9447000000,
+            "freeCashFlow": 108807000000,
+            "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000123/0000320193-24-000123-index.htm",
+            "finalLink": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000123/aapl-20240928.htm"
+        },
+        {
+            "date": "2023-09-30",
+            "symbol": "AAPL",
+            "reportedCurrency": "USD",
+            "cik": "0000320193",
+            "fillingDate": "2023-11-03",
+            "acceptedDate": "2023-11-02 18:08:27",
+            "calendarYear": "2023",
+            "period": "FY",
+            "netIncome": 96995000000,
+            "depreciationAndAmortization": 11519000000,
+            "deferredIncomeTax": 0,
+            "stockBasedCompensation": 10833000000,
+            "changeInWorkingCapital": -6577000000,
+            "accountsReceivables": -417000000,
+            "inventory": -1618000000,
+            "accountsPayables": -1889000000,
+            "otherWorkingCapital": -2653000000,
+            "otherNonCashItems": -2227000000,
+            "netCashProvidedByOperatingActivities": 110543000000,
+            "investmentsInPropertyPlantAndEquipment": -10959000000,
+            "acquisitionsNet": 0,
+            "purchasesOfInvestments": -29513000000,
+            "salesMaturitiesOfInvestments": 45514000000,
+            "otherInvestingActivites": -1337000000,
+            "netCashUsedForInvestingActivites": 3705000000,
+            "debtRepayment": -9901000000,
+            "commonStockIssued": 0,
+            "commonStockRepurchased": -77550000000,
+            "dividendsPaid": -15025000000,
+            "otherFinancingActivites": -6012000000,
+            "netCashUsedProvidedByFinancingActivities": -108488000000,
+            "effectOfForexChangesOnCash": 0,
+            "netChangeInCash": 5760000000,
+            "cashAtEndOfPeriod": 30737000000,
+            "cashAtBeginningOfPeriod": 24977000000,
+            "operatingCashFlow": 110543000000,
+            "capitalExpenditure": -10959000000,
+            "freeCashFlow": 99584000000,
+            "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/0000320193-23-000106-index.htm",
+            "finalLink": "https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm"
+        },
+        {
+            "date": "2022-09-24",
+            "symbol": "AAPL",
+            "reportedCurrency": "USD",
+            "cik": "0000320193",
+            "fillingDate": "2022-10-28",
+            "acceptedDate": "2022-10-27 18:01:14",
+            "calendarYear": "2022",
+            "period": "FY",
+            "netIncome": 99803000000,
+            "depreciationAndAmortization": 11104000000,
+            "deferredIncomeTax": 895000000,
+            "stockBasedCompensation": 9038000000,
+            "changeInWorkingCapital": 1200000000,
+            "accountsReceivables": -9343000000,
+            "inventory": 1484000000,
+            "accountsPayables": 9448000000,
+            "otherWorkingCapital": -389000000,
+            "otherNonCashItems": 111000000,
+            "netCashProvidedByOperatingActivities": 122151000000,
+            "investmentsInPropertyPlantAndEquipment": -10708000000,
+            "acquisitionsNet": -306000000,
+            "purchasesOfInvestments": -76923000000,
+            "salesMaturitiesOfInvestments": 67363000000,
+            "otherInvestingActivites": -2086000000,
+            "netCashUsedForInvestingActivites": -22354000000,
+            "debtRepayment": -4078000000,
+            "commonStockIssued": 0,
+            "commonStockRepurchased": -89402000000,
+            "dividendsPaid": -14841000000,
+            "otherFinancingActivites": -2428000000,
+            "netCashUsedProvidedByFinancingActivities": -110749000000,
+            "effectOfForexChangesOnCash": 0,
+            "netChangeInCash": -10952000000,
+            "cashAtEndOfPeriod": 24977000000,
+            "cashAtBeginningOfPeriod": 35929000000,
+            "operatingCashFlow": 122151000000,
+            "capitalExpenditure": -10708000000,
+            "freeCashFlow": 111443000000,
+            "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/0000320193-22-000108-index.htm",
+            "finalLink": "https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm"
+        },
+        {
+            "date": "2021-09-25",
+            "symbol": "AAPL",
+            "reportedCurrency": "USD",
+            "cik": "0000320193",
+            "fillingDate": "2021-10-29",
+            "acceptedDate": "2021-10-28 18:04:28",
+            "calendarYear": "2021",
+            "period": "FY",
+            "netIncome": 94680000000,
+            "depreciationAndAmortization": 11284000000,
+            "deferredIncomeTax": -4774000000,
+            "stockBasedCompensation": 7906000000,
+            "changeInWorkingCapital": -4911000000,
+            "accountsReceivables": -14028000000,
+            "inventory": -2642000000,
+            "accountsPayables": 12326000000,
+            "otherWorkingCapital": -567000000,
+            "otherNonCashItems": -147000000,
+            "netCashProvidedByOperatingActivities": 104038000000,
+            "investmentsInPropertyPlantAndEquipment": -11085000000,
+            "acquisitionsNet": -33000000,
+            "purchasesOfInvestments": -109558000000,
+            "salesMaturitiesOfInvestments": 106483000000,
+            "otherInvestingActivites": -385000000,
+            "netCashUsedForInvestingActivites": -14545000000,
+            "debtRepayment": 11643000000,
+            "commonStockIssued": 1105000000,
+            "commonStockRepurchased": -85971000000,
+            "dividendsPaid": -14467000000,
+            "otherFinancingActivites": -4558000000,
+            "netCashUsedProvidedByFinancingActivities": -93353000000,
+            "effectOfForexChangesOnCash": 0,
+            "netChangeInCash": -3860000000,
+            "cashAtEndOfPeriod": 35929000000,
+            "cashAtBeginningOfPeriod": 39789000000,
+            "operatingCashFlow": 104038000000,
+            "capitalExpenditure": -11085000000,
+            "freeCashFlow": 92953000000,
+            "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/0000320193-21-000105-index.htm",
+            "finalLink": "https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm"
+        },
+        {
+            "date": "2020-09-26",
+            "symbol": "AAPL",
+            "reportedCurrency": "USD",
+            "cik": "0000320193",
+            "fillingDate": "2020-10-30",
+            "acceptedDate": "2020-10-29 18:06:25",
+            "calendarYear": "2020",
+            "period": "FY",
+            "netIncome": 57411000000,
+            "depreciationAndAmortization": 11056000000,
+            "deferredIncomeTax": -215000000,
+            "stockBasedCompensation": 6829000000,
+            "changeInWorkingCapital": 5690000000,
+            "accountsReceivables": 8470000000,
+            "inventory": -127000000,
+            "accountsPayables": -4062000000,
+            "otherWorkingCapital": 1409000000,
+            "otherNonCashItems": -97000000,
+            "netCashProvidedByOperatingActivities": 80674000000,
+            "investmentsInPropertyPlantAndEquipment": -7309000000,
+            "acquisitionsNet": -1524000000,
+            "purchasesOfInvestments": -114938000000,
+            "salesMaturitiesOfInvestments": 120391000000,
+            "otherInvestingActivites": -909000000,
+            "netCashUsedForInvestingActivites": -4289000000,
+            "debtRepayment": 2499000000,
+            "commonStockIssued": 880000000,
+            "commonStockRepurchased": -72358000000,
+            "dividendsPaid": -14081000000,
+            "otherFinancingActivites": -2880000000,
+            "netCashUsedProvidedByFinancingActivities": -86820000000,
+            "effectOfForexChangesOnCash": 0,
+            "netChangeInCash": -10435000000,
+            "cashAtEndOfPeriod": 39789000000,
+            "cashAtBeginningOfPeriod": 50224000000,
+            "operatingCashFlow": 80674000000,
+            "capitalExpenditure": -7309000000,
+            "freeCashFlow": 73365000000,
+            "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019320000096/0000320193-20-000096-index.htm",
+            "finalLink": "https://www.sec.gov/Archives/edgar/data/320193/000032019320000096/aapl-20200926.htm"
+        }
+    ],
+    "peers": [
+        "MSFT",
+        "GOOGL",
+        "AMZN",
+        "FB",
+        "TSLA"
+    ],
+    "peer_metrics": [
+        {
+            "symbol": "AAPL",
+            "price": 199.95,
+            "pe": 28.2,
+            "revenue_growth_yoy": 0.02021994077514111,
+            "revenue_cagr_3y": 0.02247001899501888,
+            "ebitda_growth_yoy": 0.07026704816404394,
+            "eps_diluted_growth_yoy": -0.00815660685154973,
+            "peg_ratio": null,
+            "gross_margin": 0.4620634981523393,
+            "ebitda_margin": 0.3443707085043538,
+            "net_margin": 0.23971255769943867,
+            "roe": 1.6459350307287095,
+            "roic": 0.6998997671891681,
+            "asset_turnover": 1.0713874732862074,
+            "debt_to_ebitda": 0.791832824648562,
+            "interest_coverage": null
+        },
+        {
+            "symbol": "MSFT",
+            "price": 458.68,
+            "pe": 35.42,
+            "revenue_growth_yoy": 0.1566996201307127,
+            "revenue_cagr_3y": 0.13400558612967717,
+            "ebitda_growth_yoy": 0.26506562678333645,
+            "eps_diluted_growth_yoy": 0.21900826446280997,
+            "peg_ratio": 1.6172905660377357,
+            "gross_margin": 0.6976444382797138,
+            "ebitda_margin": 0.5426236731097168,
+            "net_margin": 0.35955972944084985,
+            "roe": 0.32828137978299815,
+            "roic": 0.2820202161568783,
+            "asset_turnover": 0.47860153896318164,
+            "debt_to_ebitda": 0.5046801344269937,
+            "interest_coverage": 37.285519591141394
+        },
+        {
+            "symbol": "GOOGL",
+            "price": 171.86,
+            "pe": 19.18,
+            "revenue_growth_yoy": 0.1386624332290156,
+            "revenue_cagr_3y": 0.10754330242226517,
+            "ebitda_growth_yoy": 0.3819803819497607,
+            "eps_diluted_growth_yoy": 0.386206896551724,
+            "peg_ratio": 0.4966250000000002,
+            "gross_margin": 0.5820043540617911,
+            "ebitda_margin": 0.3868201063945283,
+            "net_margin": 0.28603671811164,
+            "roe": 0.30797578472025694,
+            "roic": 0.2871282891450224,
+            "asset_turnover": 0.7773755374720159,
+            "debt_to_ebitda": 0.1880511691803182,
+            "interest_coverage": 419.36567164179104
+        },
+        {
+            "symbol": "AMZN",
+            "price": 205.7,
+            "pe": 33.5,
+            "revenue_growth_yoy": 0.1099089224666614,
+            "revenue_cagr_3y": 0.10735398559596487,
+            "ebitda_growth_yoy": 0.3849242746247288,
+            "eps_diluted_growth_yoy": 0.9068965517241381,
+            "peg_ratio": 0.36939163498098854,
+            "gross_margin": 0.48854393464156787,
+            "ebitda_margin": 0.194079870336495,
+            "net_margin": 0.09287117197186653,
+            "roe": 0.2071825715984194,
+            "roic": 0.1754877699962039,
+            "asset_turnover": 1.020907545919788,
+            "debt_to_ebitda": 1.0572224690061787,
+            "interest_coverage": 28.509143807148796
+        },
+        {
+            "symbol": "FB",
+            "price": null,
+            "pe": null,
+            "revenue_growth_yoy": 0.21941112807816054,
+            "revenue_cagr_3y": 0.11733304241692033,
+            "ebitda_growth_yoy": 0.47117794486215536,
+            "eps_diluted_growth_yoy": 0.6045729657027572,
+            "peg_ratio": null,
+            "gross_margin": 0.8166515705071702,
+            "ebitda_margin": 0.5281183701010936,
+            "net_margin": 0.3790858414234564,
+            "roe": 0.34144231453648494,
+            "roic": 0.3260124929197305,
+            "asset_turnover": 0.5959015265129286,
+            "debt_to_ebitda": 0.5647129241677794,
+            "interest_coverage": 127.53676470588235
+        },
+        {
+            "symbol": "TSLA",
+            "price": 358.43,
+            "pe": 205.99,
+            "revenue_growth_yoy": 0.009475783534663496,
+            "revenue_cagr_3y": 0.21981528090391333,
+            "ebitda_growth_yoy": -0.005947553392808835,
+            "eps_diluted_growth_yoy": -0.5255813953488372,
+            "peg_ratio": null,
+            "gross_margin": 0.17862626676220697,
+            "ebitda_margin": 0.1505578871941857,
+            "net_margin": 0.07298597604667827,
+            "roe": 0.09778777447094482,
+            "roic": 0.0799764652727595,
+            "asset_turnover": 0.8002785287130335,
+            "debt_to_ebitda": 0.9262306227903182,
+            "interest_coverage": 20.217142857142857
+        }
+    ],
+    "product_segmentation": [
+        {
+            "2024-09-28": {
+                "Revenue from Contract with Customer, Excluding Assessed Tax": {
+                    "Product and Service": {
+                        "Mac": 29984000000,
+                        "Service": 96169000000,
+                        "Wearables, Home and Accessories": 37005000000,
+                        "iPad": 26694000000,
+                        "iPhone": 201183000000
+                    }
+                }
+            }
+        },
+        {
+            "2023-09-30": {
+                "Revenue from Contract with Customer, Excluding Assessed Tax": {
+                    "Product and Service": {
+                        "Mac": 29357000000,
+                        "Service": 85200000000,
+                        "Wearables, Home and Accessories": 39845000000,
+                        "iPad": 28300000000,
+                        "iPhone": 200583000000
+                    }
+                }
+            }
+        },
+        {
+            "2022-09-24": {
+                "Revenue from Contract with Customer, Excluding Assessed Tax": {
+                    "Product and Service": {
+                        "Mac": 40177000000,
+                        "Service": 78129000000,
+                        "Wearables, Home and Accessories": 41241000000,
+                        "iPad": 29292000000,
+                        "iPhone": 205489000000
+                    }
+                }
+            }
+        },
+        {
+            "2021-09-25": {
+                "Revenue from Contract with Customer, Excluding Assessed Tax": {
+                    "Product and Service": {
+                        "Mac": 35190000000,
+                        "Service": 68425000000,
+                        "Wearables, Home and Accessories": 38367000000,
+                        "iPad": 31862000000,
+                        "iPhone": 191973000000
+                    }
+                }
+            }
+        },
+        {
+            "2020-09-26": {
+                "Revenue from Contract with Customer, Excluding Assessed Tax": {
+                    "Product and Service": {
+                        "Mac": 28622000000,
+                        "Service": 53768000000,
+                        "Wearables, Home and Accessories": 30620000000,
+                        "iPad": 23724000000,
+                        "iPhone": 137781000000
+                    }
+                }
+            }
+        },
+        {
+            "2019-09-28": {
+                "Revenue from Contract with Customer, Excluding Assessed Tax": {
+                    "Product and Service": {
+                        "Mac": 25740000000,
+                        "Service": 46291000000,
+                        "Wearables, Home and Accessories": 24482000000,
+                        "iPad": 21280000000,
+                        "iPhone": 142381000000
+                    }
+                }
+            }
+        },
+        {
+            "2018-09-29": {
+                "Revenues": {
+                    "Product and Service": {
+                        "Mac": 25484000000,
+                        "Service": 37190000000,
+                        "iPad": 18805000000,
+                        "iPhone": 166699000000
+                    }
+                }
+            }
+        },
+        {
+            "2017-09-30": {
+                "Revenue, Net": {
+                    "Products and Services": {
+                        "Mac": 25850000000,
+                        "Service": 29980000000,
+                        "iPad": 19222000000,
+                        "iPhone": 141319000000
+                    }
+                }
+            }
+        },
+        {
+            "2016-09-24": {
+                "Revenue, Net": {
+                    "Products and Services": {
+                        "Mac": 22831000000,
+                        "iPad": 20628000000,
+                        "iPhone": 136700000000,
+                        "Service": 24348000000
+                    }
+                }
+            }
+        },
+        {
+            "2015-09-26": {
+                "Revenue, Net": {
+                    "Products and Services": {
+                        "Mac": 25471000000,
+                        "iPad": 23227000000,
+                        "iPhone": 155041000000,
+                        "Service": 19909000000
+                    }
+                }
+            }
+        },
+        {
+            "2014-09-27": {
+                "Revenue Recognition, Multiple-deliverable Arrangements, Determination of Selling Price, Amount": {
+                    "Segments": {
+                        "Mac": 40
+                    }
+                },
+                "Revenue, Net": {
+                    "Segments": {
+                        "Wearables, Home and Accessories": 6093000000,
+                        "Mac": 24079000000,
+                        "iPad": 30283000000,
+                        "iPhone": 101991000000,
+                        "iPod": 2286000000,
+                        "iTunes, Software And Service": 18063000000
+                    }
+                }
+            }
+        },
+        {
+            "2013-09-28": {
+                "Sales Revenue Net": {
+                    "Statement Business Segments": {
+                        "Wearables, Home and Accessories": 5706000000,
+                        "iPad": 31980000000,
+                        "iPhone": 91279000000,
+                        "Mac": 21483000000,
+                        "iPod": 4411000000,
+                        "iTunes, Software And Service": 16051000000
+                    }
+                }
+            }
+        },
+        {
+            "2012-09-29": {
+                "Sales Revenue Net": {
+                    "Statement Business Segments": {
+                        "iPad": 32424000000,
+                        "iPhone": 80477000000,
+                        "iPod": 5615000000,
+                        "Mac": 23221000000
+                    }
+                }
+            }
+        },
+        {
+            "2011-09-24": {
+                "Revenue, Net": {
+                    "Statement, Business Segments": {
+                        "Desktops": 6439000000,
+                        "Other music related products and services": 6314000000,
+                        "Peripherals and Other Hardware": 2330000000,
+                        "Portables": 15344000000,
+                        "Retail": 14127000000,
+                        "Software, service and other net sales": 2954000000,
+                        "Total Mac net sales": 21783000000,
+                        "iPad and related products and services": 20358000000,
+                        "iPhone and related products and services": 47057000000,
+                        "iPod": 7453000000
+                    }
+                }
+            }
+        },
+        {
+            "2010-09-25": {
+                "Sales Revenue, Net": {
+                    "Statement, Business Segments": {
+                        "Retail": 9798000000
+                    }
+                }
+            }
+        }
+    ],
+    "geographic_segmentation": [
+        {
+            "2024-09-28": {
+                "Revenue from Contract with Customer, Excluding Assessed Tax": {
+                    "Segments": {
+                        "Americas Segment": 167045000000,
+                        "Europe Segment": 101328000000,
+                        "Greater China Segment": 66952000000,
+                        "Japan Segment": 25052000000,
+                        "Rest of Asia Pacific": 30658000000
+                    }
+                }
+            }
+        },
+        {
+            "2023-09-30": {
+                "Revenue from Contract with Customer, Excluding Assessed Tax": {
+                    "Segments": {
+                        "Americas Segment": 162560000000,
+                        "Europe Segment": 94294000000,
+                        "Greater China Segment": 72559000000,
+                        "Japan Segment": 24257000000,
+                        "Rest of Asia Pacific Segment": 29615000000
+                    }
+                }
+            }
+        },
+        {
+            "2022-09-24": {
+                "Revenue from Contract with Customer, Excluding Assessed Tax": {
+                    "Segments": {
+                        "Americas Segment": 169658000000,
+                        "Europe Segment": 95118000000,
+                        "Greater China Segment": 74200000000,
+                        "Japan Segment": 25977000000,
+                        "Rest of Asia Pacific Segment": 29375000000
+                    }
+                }
+            }
+        },
+        {
+            "2021-09-25": {
+                "Revenue from Contract with Customer, Excluding Assessed Tax": {
+                    "Segments": {
+                        "Americas Segment": 153306000000,
+                        "Europe Segment": 89307000000,
+                        "Greater China Segment": 68366000000,
+                        "Japan Segment": 28482000000,
+                        "Rest of Asia Pacific Segment": 26356000000
+                    }
+                }
+            }
+        },
+        {
+            "2020-09-26": {
+                "Revenue from Contract with Customer, Excluding Assessed Tax": {
+                    "Segments": {
+                        "Americas Segment": 124556000000,
+                        "Europe Segment": 68640000000,
+                        "Greater China Segment": 40308000000,
+                        "Japan Segment": 21418000000,
+                        "Rest of Asia Pacific Segment": 19593000000
+                    }
+                }
+            }
+        },
+        {
+            "2019-09-28": {
+                "Revenue from Contract with Customer, Excluding Assessed Tax": {
+                    "Segments": {
+                        "Americas Segment": 116914000000,
+                        "Europe Segment": 60288000000,
+                        "Greater China Segment": 43678000000,
+                        "Japan Segment": 21506000000
+                    }
+                }
+            }
+        },
+        {
+            "2018-09-29": {
+                "Revenues": {
+                    "Segments": {
+                        "Americas Segment": 112093000000,
+                        "Europe Segment": 62420000000,
+                        "Greater China Segment": 51942000000,
+                        "Japan Segment": 21733000000
+                    }
+                }
+            }
+        },
+        {
+            "2017-09-30": {
+                "Revenue, Net": {
+                    "Segments": {
+                        "Americas Segment": 96600000000,
+                        "Europe Segment": 54938000000,
+                        "Greater China Segment": 44764000000,
+                        "Japan Segment": 17733000000
+                    }
+                }
+            }
+        },
+        {
+            "2016-09-24": {
+                "Revenue, Net": {
+                    "Segments": {
+                        "Americas Segment": 86613000000,
+                        "Europe Segment": 49952000000,
+                        "Greater China Segment": 48492000000,
+                        "Japan Segment": 16928000000
+                    }
+                }
+            }
+        },
+        {
+            "2015-09-26": {
+                "Revenue, Net": {
+                    "Segments": {
+                        "Americas Segment": 93864000000,
+                        "Europe Segment": 50337000000,
+                        "Greater China Segment": 58715000000,
+                        "Japan Segment": 15706000000
+                    }
+                }
+            }
+        },
+        {
+            "2014-09-27": {
+                "Revenue, Net": {
+                    "Geographical": {
+                        "Greater China Segment": 30638000000,
+                        "Americas Segment": 68909000000
+                    }
+                }
+            }
+        },
+        {
+            "2013-09-28": {
+                "Sales Revenue Net": {
+                    "Statement Geographical": {
+                        "Greater China Segment": 25946000000,
+                        "Americas Segment": 66197000000
+                    }
+                }
+            }
+        },
+        {
+            "2012-09-29": {
+                "Sales Revenue Net": {
+                    "Statement Geographical": {
+                        "Greater China Segment": 22797000000,
+                        "Americas Segment": 60949000000
+                    }
+                }
+            }
+        },
+        {
+            "2011-09-24": {
+                "Revenue, Net": {
+                    "Statement, Business Segments": {
+                        "Americas Segment": 38315000000,
+                        "Asia-Pacific": 22592000000,
+                        "Europe Segment": 27778000000,
+                        "Japan Segment": 5437000000
+                    }
+                }
+            }
+        },
+        {
+            "2010-09-25": {
+                "Sales Revenue, Net": {
+                    "Statement, Business Segments": {
+                        "Americas Segment": 24498000000,
+                        "Asia-Pacific": 8256000000,
+                        "Europe Segment": 18692000000,
+                        "Japan Segment": 3981000000
+                    }
+                }
+            }
+        }
+    ],
+    "metadata_package": {
+        "fmp_filling_date": "2024-11-01",
+        "fmp_calendar_year": "2024",
+        "fmp_period": "FY",
+        "period_back_offset": 0,
+        "data_fetch_timestamp": "2025-05-29T22:03:49.967783"
+    }
+}

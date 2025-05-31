@@ -1,0 +1,780 @@
+{
+    "filing_link": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000074/intc-20250329.htm",
+    "company_symbol": "INTC",
+    "filing_date": "2025-04-25",
+    "analysis_results": [
+        {
+            "Question": "What are the main growth opportunities highlighted in the filing?",
+            "answer_json_string": "{\n    \"analysis\": {\n        \"growth_opportunities\": [\n            \"IDM strategy\",\n            \"Smart Capital strategy\",\n            \"partnerships with Apollo and Brookfield\",\n            \"internal foundry model\",\n            \"AI strategy\",\n            \"future products, services, and technologies\",\n            \"investment plans in the US and abroad\",\n            \"foundry business expansion\",\n            \"anticipated growth in market share\",\n            \"future technology trends and developments\"\n        ]\n    },\n    \"classification\": \"Positive\"\n}",
+            "parsed_answer_for_validation": {
+                "analysis": {
+                    "growth_opportunities": [
+                        "IDM strategy",
+                        "Smart Capital strategy",
+                        "partnerships with Apollo and Brookfield",
+                        "internal foundry model",
+                        "AI strategy",
+                        "future products, services, and technologies",
+                        "investment plans in the US and abroad",
+                        "foundry business expansion",
+                        "anticipated growth in market share",
+                        "future technology trends and developments"
+                    ]
+                },
+                "classification": "Positive"
+            },
+            "validation_passed": true,
+            "total_tokens": 1327,
+            "prompt_tokens": 1224,
+            "status": "Success"
+        },
+        {
+            "Question": "Summarize the company's competitive advantages mentioned.",
+            "answer_json_string": "{\n    \"analysis\": {\n        \"competitive_advantages\": [\n            \"IDM strategy\",\n            \"Smart Capital strategy\",\n            \"partnerships with Apollo and Brookfield\",\n            \"internal foundry model\",\n            \"updated reporting structure\",\n            \"AI strategy\"\n        ]\n    },\n    \"classification\": \"Positive\"\n}",
+            "parsed_answer_for_validation": {
+                "analysis": {
+                    "competitive_advantages": [
+                        "IDM strategy",
+                        "Smart Capital strategy",
+                        "partnerships with Apollo and Brookfield",
+                        "internal foundry model",
+                        "updated reporting structure",
+                        "AI strategy"
+                    ]
+                },
+                "classification": "Positive"
+            },
+            "validation_passed": true,
+            "total_tokens": 1288,
+            "prompt_tokens": 1222,
+            "status": "Success"
+        },
+        {
+            "Question": "What are the key risks mentioned in the filing?",
+            "answer_json_string": "{\n    \"analysis\": {\n        \"risks\": [\n            \"Inability to pass along increased costs to customers\",\n            \"Impact of tariffs and trade restrictions\",\n            \"Geopolitical tensions, particularly between the US and China\",\n            \"Adverse effects on business and consumer sentiment\",\n            \"Fluctuations in currency exchange and interest rates\",\n            \"Volatility in equity and commodity prices\",\n            \"Material adverse impact on revenue, operations, and financial position\",\n            \"Increased likelihood of other risks as highlighted in the Risk Factors section\"\n        ]\n    },\n    \"classification\": \"Negative\"\n}",
+            "parsed_answer_for_validation": {
+                "analysis": {
+                    "risks": [
+                        "Inability to pass along increased costs to customers",
+                        "Impact of tariffs and trade restrictions",
+                        "Geopolitical tensions, particularly between the US and China",
+                        "Adverse effects on business and consumer sentiment",
+                        "Fluctuations in currency exchange and interest rates",
+                        "Volatility in equity and commodity prices",
+                        "Material adverse impact on revenue, operations, and financial position",
+                        "Increased likelihood of other risks as highlighted in the Risk Factors section"
+                    ]
+                },
+                "classification": "Negative"
+            },
+            "validation_passed": true,
+            "total_tokens": 1800,
+            "prompt_tokens": 1677,
+            "status": "Success"
+        },
+        {
+            "Question": "What are the company's stated strategic priorities and future plans?",
+            "answer_json_string": "{\n    \"analysis\": {\n        \"strategic_priorities\": [\n            \"IDM strategy\",\n            \"Smart Capital strategy\",\n            \"partnerships with Apollo and Brookfield\",\n            \"internal foundry model\",\n            \"updated reporting structure\",\n            \"AI strategy\"\n        ],\n        \"future_plans\": [\n            \"projections of future financial performance\",\n            \"future cash requirements and capital resources\",\n            \"investment plans in the US and abroad\",\n            \"internal and external manufacturing plans\",\n            \"future production capacity and product supply\",\n            \"plans related to Intel's foundry business\",\n            \"expected timing and impact of acquisitions and divestitures\",\n            \"completion and impacts of restructuring activities\",\n            \"future social and environmental performance goals\",\n            \"anticipated growth and market share trends\",\n            \"expectations regarding government incentives\",\n            \"future technology trends and developments\"\n        ]\n    },\n    \"classification\": \"Positive\"\n}",
+            "parsed_answer_for_validation": {
+                "analysis": {
+                    "strategic_priorities": [
+                        "IDM strategy",
+                        "Smart Capital strategy",
+                        "partnerships with Apollo and Brookfield",
+                        "internal foundry model",
+                        "updated reporting structure",
+                        "AI strategy"
+                    ],
+                    "future_plans": [
+                        "projections of future financial performance",
+                        "future cash requirements and capital resources",
+                        "investment plans in the US and abroad",
+                        "internal and external manufacturing plans",
+                        "future production capacity and product supply",
+                        "plans related to Intel's foundry business",
+                        "expected timing and impact of acquisitions and divestitures",
+                        "completion and impacts of restructuring activities",
+                        "future social and environmental performance goals",
+                        "anticipated growth and market share trends",
+                        "expectations regarding government incentives",
+                        "future technology trends and developments"
+                    ]
+                },
+                "classification": "Positive"
+            },
+            "validation_passed": true,
+            "total_tokens": 1412,
+            "prompt_tokens": 1224,
+            "status": "Success"
+        },
+        {
+            "Question": "Provide a summary of the company’s business model, operations, and primary revenue sources.",
+            "answer_json_string": "{\n    \"analysis\": {\n        \"business_model\": \"The company operates primarily in the semiconductor industry, focusing on the design and manufacturing of Intel Products through its Intel Foundry. It aims to deliver advanced silicon process and packaging technologies while supporting both internal and external customers.\",\n        \"operations\": {\n            \"segments\": [\n                {\n                    \"name\": \"CCG\",\n                    \"description\": \"Delivers platforms and processors for personal computers, enhancing performance and user experiences.\"\n                },\n                {\n                    \"name\": \"DCAI\",\n                    \"description\": \"Provides high-performance computing, AI acceleration, and infrastructure solutions for data centers and enterprises.\"\n                },\n                {\n                    \"name\": \"Intel Foundry\",\n                    \"description\": \"Offers technology development, manufacturing, and foundry services, focusing on semiconductor supply chain resilience.\"\n                }\n            ]\n        },\n        \"primary_revenue_sources\": [\n            \"CCG revenue from personal computer platforms and processors.\",\n            \"DCAI revenue from high-performance computing and AI solutions.\",\n            \"Intel Foundry revenue from manufacturing services and intersegment sales.\"\n        ]\n    },\n    \"classification\": \"Neutral\"\n}",
+            "parsed_answer_for_validation": {
+                "analysis": {
+                    "business_model": "The company operates primarily in the semiconductor industry, focusing on the design and manufacturing of Intel Products through its Intel Foundry. It aims to deliver advanced silicon process and packaging technologies while supporting both internal and external customers.",
+                    "operations": {
+                        "segments": [
+                            {
+                                "name": "CCG",
+                                "description": "Delivers platforms and processors for personal computers, enhancing performance and user experiences."
+                            },
+                            {
+                                "name": "DCAI",
+                                "description": "Provides high-performance computing, AI acceleration, and infrastructure solutions for data centers and enterprises."
+                            },
+                            {
+                                "name": "Intel Foundry",
+                                "description": "Offers technology development, manufacturing, and foundry services, focusing on semiconductor supply chain resilience."
+                            }
+                        ]
+                    },
+                    "primary_revenue_sources": [
+                        "CCG revenue from personal computer platforms and processors.",
+                        "DCAI revenue from high-performance computing and AI solutions.",
+                        "Intel Foundry revenue from manufacturing services and intersegment sales."
+                    ]
+                },
+                "classification": "Neutral"
+            },
+            "validation_passed": true,
+            "total_tokens": 1915,
+            "prompt_tokens": 1684,
+            "status": "Success"
+        },
+        {
+            "Question": "What markets or geographies does the company primarily operate in?",
+            "answer_json_string": "{\n    \"analysis\": {\n        \"markets\": [\n            \"Personal Computers\",\n            \"High-Performance Computing\",\n            \"AI Acceleration\",\n            \"Data Centers\",\n            \"Cloud Providers\",\n            \"Enterprises\"\n        ],\n        \"geographies\": [\n            \"Global\"\n        ]\n    },\n    \"classification\": \"Neutral\"\n}",
+            "parsed_answer_for_validation": {
+                "analysis": {
+                    "markets": [
+                        "Personal Computers",
+                        "High-Performance Computing",
+                        "AI Acceleration",
+                        "Data Centers",
+                        "Cloud Providers",
+                        "Enterprises"
+                    ],
+                    "geographies": [
+                        "Global"
+                    ]
+                },
+                "classification": "Neutral"
+            },
+            "validation_passed": true,
+            "total_tokens": 1747,
+            "prompt_tokens": 1679,
+            "status": "Success"
+        },
+        {
+            "Question": "What new products, services, or initiatives are mentioned in the business overview?",
+            "answer_json_string": "{\n    \"analysis\": {\n        \"new_products_services_initiatives\": [\n            \"Gaudi AI accelerator\",\n            \"advanced packaging technologies\",\n            \"Intel 3 and Intel 4 leading edge process nodes\"\n        ]\n    },\n    \"classification\": \"Neutral\"\n}",
+            "parsed_answer_for_validation": {
+                "analysis": {
+                    "new_products_services_initiatives": [
+                        "Gaudi AI accelerator",
+                        "advanced packaging technologies",
+                        "Intel 3 and Intel 4 leading edge process nodes"
+                    ]
+                },
+                "classification": "Neutral"
+            },
+            "validation_passed": true,
+            "total_tokens": 1737,
+            "prompt_tokens": 1682,
+            "status": "Success"
+        },
+        {
+            "Question": "Summarize the main risk factors described in the filing.",
+            "answer_json_string": "{\n    \"analysis\": {\n        \"legal_proceedings\": [\n            \"Ongoing legal proceedings related to the European Commission's findings on unfair business practices, including a €376 million fine.\",\n            \"Pending consumer class action lawsuits in the US and Canada related to security vulnerabilities (Spectre, Meltdown, and Downfall).\",\n            \"Securities class action lawsuit regarding modifications to segment reporting and internal foundry model, with potential damages sought by plaintiffs.\"\n        ],\n        \"uncertainty\": [\n            \"Inability to estimate potential losses due to the procedural posture of ongoing litigation.\",\n            \"Significant factual and legal issues to be resolved in various lawsuits.\"\n        ]\n    },\n    \"classification\": \"Negative\"\n}",
+            "parsed_answer_for_validation": {
+                "analysis": {
+                    "legal_proceedings": [
+                        "Ongoing legal proceedings related to the European Commission's findings on unfair business practices, including a €376 million fine.",
+                        "Pending consumer class action lawsuits in the US and Canada related to security vulnerabilities (Spectre, Meltdown, and Downfall).",
+                        "Securities class action lawsuit regarding modifications to segment reporting and internal foundry model, with potential damages sought by plaintiffs."
+                    ],
+                    "uncertainty": [
+                        "Inability to estimate potential losses due to the procedural posture of ongoing litigation.",
+                        "Significant factual and legal issues to be resolved in various lawsuits."
+                    ]
+                },
+                "classification": "Negative"
+            },
+            "validation_passed": true,
+            "total_tokens": 1803,
+            "prompt_tokens": 1658,
+            "status": "Success"
+        },
+        {
+            "Question": "Highlight any emerging risks or industry-specific concerns noted in the document.",
+            "answer_json_string": "{\n    \"analysis\": {\n        \"emergingRisks\": [\n            \"Geopolitical tensions and conflicts impacting international trade policies, tariffs, and export controls.\",\n            \"Supply expectations regarding constraints, limitations, pricing, and industry shortages.\",\n            \"Future macro environmental and economic conditions affecting business operations.\",\n            \"Anticipated trends related to industry component, substrate, and foundry capacity utilization.\"\n        ],\n        \"industrySpecificConcerns\": [\n            \"Future technology trends and developments, particularly in AI.\",\n            \"Investment plans and impacts in the US and abroad.\",\n            \"Plans related to Intel's foundry business and anticipated customers.\"\n        ]\n    },\n    \"classification\": \"Negative\"\n}",
+            "parsed_answer_for_validation": {
+                "analysis": {
+                    "emergingRisks": [
+                        "Geopolitical tensions and conflicts impacting international trade policies, tariffs, and export controls.",
+                        "Supply expectations regarding constraints, limitations, pricing, and industry shortages.",
+                        "Future macro environmental and economic conditions affecting business operations.",
+                        "Anticipated trends related to industry component, substrate, and foundry capacity utilization."
+                    ],
+                    "industrySpecificConcerns": [
+                        "Future technology trends and developments, particularly in AI.",
+                        "Investment plans and impacts in the US and abroad.",
+                        "Plans related to Intel's foundry business and anticipated customers."
+                    ]
+                },
+                "classification": "Negative"
+            },
+            "validation_passed": true,
+            "total_tokens": 1365,
+            "prompt_tokens": 1226,
+            "status": "Success"
+        },
+        {
+            "Question": "What legal proceedings are disclosed in the filing? Are there any significant lawsuits or regulatory actions mentioned?",
+            "answer_json_string": "{\n    \"analysis\": {\n        \"legal_proceedings\": [\n            {\n                \"type\": \"European Commission Competition Matter\",\n                \"details\": \"In 2009, the EC found Intel used unfair business practices, resulting in a €1.1 billion fine, which was annulled in 2022 regarding rebates but upheld for payments to prevent sales of rival products, leading to a €376 million fine in 2023.\"\n            },\n            {\n                \"type\": \"Litigation Related to Security Vulnerabilities\",\n                \"details\": \"Consumer class action lawsuits related to Spectre and Meltdown vulnerabilities were filed, with a significant case ending in favor of Intel in November 2023, but new lawsuits have emerged regarding a variant called 'Downfall'.\"\n            },\n            {\n                \"type\": \"Litigation Related to Segment Reporting and Internal Foundry Model\",\n                \"details\": \"A securities class action lawsuit was filed in May 2024 regarding segment reporting changes, with the court granting a motion to dismiss in March 2025, but allowing plaintiffs to amend their complaint.\"\n            }\n        ]\n    },\n    \"classification\": \"Negative\"\n}",
+            "parsed_answer_for_validation": {
+                "analysis": {
+                    "legal_proceedings": [
+                        {
+                            "type": "European Commission Competition Matter",
+                            "details": "In 2009, the EC found Intel used unfair business practices, resulting in a €1.1 billion fine, which was annulled in 2022 regarding rebates but upheld for payments to prevent sales of rival products, leading to a €376 million fine in 2023."
+                        },
+                        {
+                            "type": "Litigation Related to Security Vulnerabilities",
+                            "details": "Consumer class action lawsuits related to Spectre and Meltdown vulnerabilities were filed, with a significant case ending in favor of Intel in November 2023, but new lawsuits have emerged regarding a variant called 'Downfall'."
+                        },
+                        {
+                            "type": "Litigation Related to Segment Reporting and Internal Foundry Model",
+                            "details": "A securities class action lawsuit was filed in May 2024 regarding segment reporting changes, with the court granting a motion to dismiss in March 2025, but allowing plaintiffs to amend their complaint."
+                        }
+                    ]
+                },
+                "classification": "Negative"
+            },
+            "validation_passed": true,
+            "total_tokens": 1898,
+            "prompt_tokens": 1665,
+            "status": "Success"
+        },
+        {
+            "Question": "What insights can be drawn from the Management’s Discussion and Analysis (MD&A)?",
+            "answer_json_string": "{\n    \"analysis\": {\n        \"business_strategy\": [\n            \"IDM strategy\",\n            \"Smart Capital strategy\",\n            \"partnerships with Apollo and Brookfield\",\n            \"internal foundry model\",\n            \"AI strategy\"\n        ],\n        \"financial_performance\": [\n            \"projections of future revenue\",\n            \"gross margins\",\n            \"capital expenditures\",\n            \"cash flows\"\n        ],\n        \"investment_plans\": [\n            \"future cash requirements\",\n            \"availability and cost of capital resources\",\n            \"R&D investments\",\n            \"returns to stockholders\"\n        ],\n        \"product_development\": [\n            \"future products and technologies\",\n            \"product roadmaps\",\n            \"process performance expectations\"\n        ],\n        \"manufacturing\": [\n            \"internal and external manufacturing plans\",\n            \"future production capacity\",\n            \"supply expectations\"\n        ],\n        \"market_trends\": [\n            \"anticipated growth and market share\",\n            \"trends in relevant markets\",\n            \"government incentives\"\n        ],\n        \"geopolitical_factors\": [\n            \"impact of international trade policies\",\n            \"geopolitical tensions\"\n        ]\n    },\n    \"classification\": \"Neutral\"\n}",
+            "parsed_answer_for_validation": {
+                "analysis": {
+                    "business_strategy": [
+                        "IDM strategy",
+                        "Smart Capital strategy",
+                        "partnerships with Apollo and Brookfield",
+                        "internal foundry model",
+                        "AI strategy"
+                    ],
+                    "financial_performance": [
+                        "projections of future revenue",
+                        "gross margins",
+                        "capital expenditures",
+                        "cash flows"
+                    ],
+                    "investment_plans": [
+                        "future cash requirements",
+                        "availability and cost of capital resources",
+                        "R&D investments",
+                        "returns to stockholders"
+                    ],
+                    "product_development": [
+                        "future products and technologies",
+                        "product roadmaps",
+                        "process performance expectations"
+                    ],
+                    "manufacturing": [
+                        "internal and external manufacturing plans",
+                        "future production capacity",
+                        "supply expectations"
+                    ],
+                    "market_trends": [
+                        "anticipated growth and market share",
+                        "trends in relevant markets",
+                        "government incentives"
+                    ],
+                    "geopolitical_factors": [
+                        "impact of international trade policies",
+                        "geopolitical tensions"
+                    ]
+                },
+                "classification": "Neutral"
+            },
+            "validation_passed": true,
+            "total_tokens": 1469,
+            "prompt_tokens": 1229,
+            "status": "Success"
+        },
+        {
+            "Question": "What are the key financial trends and operational highlights noted by management?",
+            "answer_json_string": "{\n    \"analysis\": {\n        \"revenue_trends\": {\n            \"total_revenue\": {\n                \"Q1_2025\": 11755,\n                \"Q1_2024\": 12101,\n                \"change\": -346\n            },\n            \"CCG_revenue\": {\n                \"Q1_2025\": 7629,\n                \"Q1_2024\": 8273,\n                \"change\": -644\n            },\n            \"DCAI_revenue\": {\n                \"Q1_2025\": 4126,\n                \"Q1_2024\": 3828,\n                \"change\": 298\n            }\n        },\n        \"cost_of_sales_trends\": {\n            \"total_cost_of_sales\": {\n                \"Q1_2025\": 6343,\n                \"Q1_2024\": 5749,\n                \"change\": 594\n            },\n            \"CCG_cost_of_sales\": {\n                \"Q1_2025\": 3984,\n                \"Q1_2024\": 4004,\n                \"change\": -20\n            },\n            \"DCAI_cost_of_sales\": {\n                \"Q1_2025\": 2359,\n                \"Q1_2024\": 1745,\n                \"change\": 614\n            }\n        },\n        \"operating_expenses_trends\": {\n            \"total_operating_expenses\": {\n                \"Q1_2025\": 2476,\n                \"Q1_2024\": 3113,\n                \"change\": -637\n            },\n            \"CCG_operating_expenses\": {\n                \"Q1_2025\": 1284,\n                \"Q1_2024\": 1447,\n                \"change\": -163\n            },\n            \"DCAI_operating_expenses\": {\n                \"Q1_2025\": 1192,\n                \"Q1_2024\": 1666,\n                \"change\": -474\n            }\n        },\n        \"operating_income_trends\": {\n            \"total_operating_income\": {\n                \"Q1_2025\": 2936,\n                \"Q1_2024\": 3239,\n                \"change\": -303\n            },\n            \"CCG_operating_income\": {\n                \"Q1_2025\": 2361,\n                \"Q1_2024\": 2822,\n                \"change\": -461\n            },\n            \"DCAI_operating_income\": {\n                \"Q1_2025\": 575,\n                \"Q1_2024\": 417,\n                \"change\": 158\n            }\n        },\n        \"operating_margin_trends\": {\n            \"total_operating_margin\": {\n                \"Q1_2025\": 25,\n                \"Q1_2024\": 27,\n                \"change\": -2\n            },\n            \"CCG_operating_margin\": {\n                \"Q1_2025\": 31,\n                \"Q1_2024\": 34,\n                \"change\": -3\n            },\n            \"DCAI_operating_margin\": {\n                \"Q1_2025\": 14,\n                \"Q1_2024\": 11,\n                \"change\": 3\n            }\n        },\n        \"Intel_Foundry_performance\": {\n            \"revenue\": {\n                \"Q1_2025\": 4667,\n                \"Q1_2024\": 4356,\n                \"change\": 311\n            },\n            \"operating_loss\": {\n                \"Q1_2025\": -2320,\n                \"Q1_2024\": -2441,\n                \"change\": 121\n            }\n        }\n    },\n    \"classification\": \"Negative\"\n}",
+            "parsed_answer_for_validation": {
+                "analysis": {
+                    "revenue_trends": {
+                        "total_revenue": {
+                            "Q1_2025": 11755,
+                            "Q1_2024": 12101,
+                            "change": -346
+                        },
+                        "CCG_revenue": {
+                            "Q1_2025": 7629,
+                            "Q1_2024": 8273,
+                            "change": -644
+                        },
+                        "DCAI_revenue": {
+                            "Q1_2025": 4126,
+                            "Q1_2024": 3828,
+                            "change": 298
+                        }
+                    },
+                    "cost_of_sales_trends": {
+                        "total_cost_of_sales": {
+                            "Q1_2025": 6343,
+                            "Q1_2024": 5749,
+                            "change": 594
+                        },
+                        "CCG_cost_of_sales": {
+                            "Q1_2025": 3984,
+                            "Q1_2024": 4004,
+                            "change": -20
+                        },
+                        "DCAI_cost_of_sales": {
+                            "Q1_2025": 2359,
+                            "Q1_2024": 1745,
+                            "change": 614
+                        }
+                    },
+                    "operating_expenses_trends": {
+                        "total_operating_expenses": {
+                            "Q1_2025": 2476,
+                            "Q1_2024": 3113,
+                            "change": -637
+                        },
+                        "CCG_operating_expenses": {
+                            "Q1_2025": 1284,
+                            "Q1_2024": 1447,
+                            "change": -163
+                        },
+                        "DCAI_operating_expenses": {
+                            "Q1_2025": 1192,
+                            "Q1_2024": 1666,
+                            "change": -474
+                        }
+                    },
+                    "operating_income_trends": {
+                        "total_operating_income": {
+                            "Q1_2025": 2936,
+                            "Q1_2024": 3239,
+                            "change": -303
+                        },
+                        "CCG_operating_income": {
+                            "Q1_2025": 2361,
+                            "Q1_2024": 2822,
+                            "change": -461
+                        },
+                        "DCAI_operating_income": {
+                            "Q1_2025": 575,
+                            "Q1_2024": 417,
+                            "change": 158
+                        }
+                    },
+                    "operating_margin_trends": {
+                        "total_operating_margin": {
+                            "Q1_2025": 25,
+                            "Q1_2024": 27,
+                            "change": -2
+                        },
+                        "CCG_operating_margin": {
+                            "Q1_2025": 31,
+                            "Q1_2024": 34,
+                            "change": -3
+                        },
+                        "DCAI_operating_margin": {
+                            "Q1_2025": 14,
+                            "Q1_2024": 11,
+                            "change": 3
+                        }
+                    },
+                    "Intel_Foundry_performance": {
+                        "revenue": {
+                            "Q1_2025": 4667,
+                            "Q1_2024": 4356,
+                            "change": 311
+                        },
+                        "operating_loss": {
+                            "Q1_2025": -2320,
+                            "Q1_2024": -2441,
+                            "change": 121
+                        }
+                    }
+                },
+                "classification": "Negative"
+            },
+            "validation_passed": true,
+            "total_tokens": 2464,
+            "prompt_tokens": 1680,
+            "status": "Success"
+        },
+        {
+            "Question": "How has the company performed compared to its stated goals or projections?",
+            "answer_json_string": "{\n    \"analysis\": {\n        \"Total Revenue\": {\n            \"Q1 2025\": 11755,\n            \"Q1 2024\": 12101,\n            \"Change\": -346,\n            \"Performance\": \"Below expectations\"\n        },\n        \"CCG Revenue\": {\n            \"Q1 2025\": 7629,\n            \"Q1 2024\": 8273,\n            \"Change\": -644,\n            \"Performance\": \"Below expectations due to lower client volume\"\n        },\n        \"DCAI Revenue\": {\n            \"Q1 2025\": 4126,\n            \"Q1 2024\": 3828,\n            \"Change\": 298,\n            \"Performance\": \"Above expectations due to increased demand\"\n        },\n        \"Operating Income\": {\n            \"Q1 2025\": 2936,\n            \"Q1 2024\": 3239,\n            \"Change\": -303,\n            \"Performance\": \"Below expectations\"\n        },\n        \"Operating Expenses\": {\n            \"Q1 2025\": 2476,\n            \"Q1 2024\": 3113,\n            \"Change\": -637,\n            \"Performance\": \"Better than expected due to cost-reduction measures\"\n        },\n        \"Intel Foundry Revenue\": {\n            \"Q1 2025\": 4667,\n            \"Q1 2024\": 4356,\n            \"Change\": 311,\n            \"Performance\": \"Above expectations\"\n        },\n        \"Intel Foundry Operating Loss\": {\n            \"Q1 2025\": -2320,\n            \"Q1 2024\": -2441,\n            \"Change\": 121,\n            \"Performance\": \"Improvement in loss\"\n        }\n    },\n    \"classification\": \"Negative\"\n}",
+            "parsed_answer_for_validation": {
+                "analysis": {
+                    "Total Revenue": {
+                        "Q1 2025": 11755,
+                        "Q1 2024": 12101,
+                        "Change": -346,
+                        "Performance": "Below expectations"
+                    },
+                    "CCG Revenue": {
+                        "Q1 2025": 7629,
+                        "Q1 2024": 8273,
+                        "Change": -644,
+                        "Performance": "Below expectations due to lower client volume"
+                    },
+                    "DCAI Revenue": {
+                        "Q1 2025": 4126,
+                        "Q1 2024": 3828,
+                        "Change": 298,
+                        "Performance": "Above expectations due to increased demand"
+                    },
+                    "Operating Income": {
+                        "Q1 2025": 2936,
+                        "Q1 2024": 3239,
+                        "Change": -303,
+                        "Performance": "Below expectations"
+                    },
+                    "Operating Expenses": {
+                        "Q1 2025": 2476,
+                        "Q1 2024": 3113,
+                        "Change": -637,
+                        "Performance": "Better than expected due to cost-reduction measures"
+                    },
+                    "Intel Foundry Revenue": {
+                        "Q1 2025": 4667,
+                        "Q1 2024": 4356,
+                        "Change": 311,
+                        "Performance": "Above expectations"
+                    },
+                    "Intel Foundry Operating Loss": {
+                        "Q1 2025": -2320,
+                        "Q1 2024": -2441,
+                        "Change": 121,
+                        "Performance": "Improvement in loss"
+                    }
+                },
+                "classification": "Negative"
+            },
+            "validation_passed": true,
+            "total_tokens": 2051,
+            "prompt_tokens": 1680,
+            "status": "Success"
+        },
+        {
+            "Question": "What concerns or challenges does management foresee for the next fiscal year?",
+            "answer_json_string": "{\n    \"analysis\": {\n        \"concerns\": [\n            \"Geopolitical tensions and volatility affecting international trade policies.\",\n            \"Potential imposition of additional tariffs related to semiconductors.\",\n            \"Disadvantage in accessing international markets due to tariffs and export controls.\",\n            \"Increased costs and difficulties in obtaining globally sourced components and raw materials.\",\n            \"Adverse impact on demand for semiconductors due to tariffs affecting customers' products.\",\n            \"Challenges in passing increased costs to customers.\",\n            \"Overall impact on revenue, operations, financial position, and profitability.\"\n        ]\n    },\n    \"classification\": \"Negative\"\n}",
+            "parsed_answer_for_validation": {
+                "analysis": {
+                    "concerns": [
+                        "Geopolitical tensions and volatility affecting international trade policies.",
+                        "Potential imposition of additional tariffs related to semiconductors.",
+                        "Disadvantage in accessing international markets due to tariffs and export controls.",
+                        "Increased costs and difficulties in obtaining globally sourced components and raw materials.",
+                        "Adverse impact on demand for semiconductors due to tariffs affecting customers' products.",
+                        "Challenges in passing increased costs to customers.",
+                        "Overall impact on revenue, operations, financial position, and profitability."
+                    ]
+                },
+                "classification": "Negative"
+            },
+            "validation_passed": true,
+            "total_tokens": 1818,
+            "prompt_tokens": 1691,
+            "status": "Success"
+        },
+        {
+            "Question": "Provide a summary of the financial performance metrics and key takeaways from the filing's financial statements.",
+            "answer_json_string": "{\n    \"analysis\": {\n        \"financial_performance_metrics\": [\n            \"Projections of future revenue and gross margins\",\n            \"Capital expenditures and cash flows expectations\",\n            \"Future cash requirements and availability of capital resources\",\n            \"Investment plans and impacts in the US and abroad\",\n            \"Expected timing and impact of acquisitions and divestitures\",\n            \"Future production capacity and product supply\",\n            \"Trends in market share and growth in relevant markets\"\n        ],\n        \"key_takeaways\": [\n            \"Focus on IDM strategy and partnerships for growth\",\n            \"Anticipated benefits from AI strategy and internal foundry model\",\n            \"Emphasis on cost-saving and efficiency initiatives\",\n            \"Concerns regarding supply constraints and industry shortages\",\n            \"Geopolitical tensions may impact business operations\"\n        ]\n    },\n    \"classification\": \"Neutral\"\n}",
+            "parsed_answer_for_validation": {
+                "analysis": {
+                    "financial_performance_metrics": [
+                        "Projections of future revenue and gross margins",
+                        "Capital expenditures and cash flows expectations",
+                        "Future cash requirements and availability of capital resources",
+                        "Investment plans and impacts in the US and abroad",
+                        "Expected timing and impact of acquisitions and divestitures",
+                        "Future production capacity and product supply",
+                        "Trends in market share and growth in relevant markets"
+                    ],
+                    "key_takeaways": [
+                        "Focus on IDM strategy and partnerships for growth",
+                        "Anticipated benefits from AI strategy and internal foundry model",
+                        "Emphasis on cost-saving and efficiency initiatives",
+                        "Concerns regarding supply constraints and industry shortages",
+                        "Geopolitical tensions may impact business operations"
+                    ]
+                },
+                "classification": "Neutral"
+            },
+            "validation_passed": true,
+            "total_tokens": 1404,
+            "prompt_tokens": 1232,
+            "status": "Success"
+        },
+        {
+            "Question": "What changes are noticeable in revenue, profitability, or cash flows compared to prior years?",
+            "answer_json_string": "{\n    \"analysis\": {\n        \"revenue\": \"No specific revenue figures are provided, but the context implies a focus on cash flows and profitability.\",\n        \"profitability\": {\n            \"income_loss_before_taxes\": {\n                \"Q1_2025\": -586,\n                \"Q1_2024\": -719\n            },\n            \"provision_for_benefit_from_taxes\": {\n                \"Q1_2025\": 301,\n                \"Q1_2024\": -282\n            },\n            \"effective_tax_rate\": {\n                \"Q1_2025\": -51.4,\n                \"Q1_2024\": 39.2\n            }\n        },\n        \"cash_flows\": {\n            \"operating_activities\": {\n                \"Q1_2025\": 813,\n                \"Q1_2024\": -1223\n            },\n            \"investing_activities\": {\n                \"Q1_2025\": 81,\n                \"Q1_2024\": -2563\n            },\n            \"financing_activities\": {\n                \"Q1_2025\": -196,\n                \"Q1_2024\": 3630\n            },\n            \"net_increase_decrease_in_cash\": {\n                \"Q1_2025\": 698,\n                \"Q1_2024\": -156\n            }\n        }\n    },\n    \"classification\": \"Positive\"\n}",
+            "parsed_answer_for_validation": {
+                "analysis": {
+                    "revenue": "No specific revenue figures are provided, but the context implies a focus on cash flows and profitability.",
+                    "profitability": {
+                        "income_loss_before_taxes": {
+                            "Q1_2025": -586,
+                            "Q1_2024": -719
+                        },
+                        "provision_for_benefit_from_taxes": {
+                            "Q1_2025": 301,
+                            "Q1_2024": -282
+                        },
+                        "effective_tax_rate": {
+                            "Q1_2025": -51.4,
+                            "Q1_2024": 39.2
+                        }
+                    },
+                    "cash_flows": {
+                        "operating_activities": {
+                            "Q1_2025": 813,
+                            "Q1_2024": -1223
+                        },
+                        "investing_activities": {
+                            "Q1_2025": 81,
+                            "Q1_2024": -2563
+                        },
+                        "financing_activities": {
+                            "Q1_2025": -196,
+                            "Q1_2024": 3630
+                        },
+                        "net_increase_decrease_in_cash": {
+                            "Q1_2025": 698,
+                            "Q1_2024": -156
+                        }
+                    }
+                },
+                "classification": "Positive"
+            },
+            "validation_passed": true,
+            "total_tokens": 1979,
+            "prompt_tokens": 1682,
+            "status": "Success"
+        },
+        {
+            "Question": "Are there any unusual or noteworthy accounting items mentioned in the financial statements?",
+            "answer_json_string": "{\n    \"analysis\": {\n        \"goodwill_impairment\": {\n            \"amount\": 222,\n            \"period\": \"first three months of 2024\",\n            \"reason\": \"estimated fair value of the new reporting unit was lower than the assigned carrying value\"\n        },\n        \"corporate_unallocated_expenses\": [\n            \"restructuring and other charges\",\n            \"share-based compensation\",\n            \"certain impairment charges\",\n            \"certain acquisition-related costs\"\n        ],\n        \"intersegment_eliminations\": \"Intersegment sales and related gross margin on inventory are eliminated for consolidation purposes.\"\n    },\n    \"classification\": \"Negative\"\n}",
+            "parsed_answer_for_validation": {
+                "analysis": {
+                    "goodwill_impairment": {
+                        "amount": 222,
+                        "period": "first three months of 2024",
+                        "reason": "estimated fair value of the new reporting unit was lower than the assigned carrying value"
+                    },
+                    "corporate_unallocated_expenses": [
+                        "restructuring and other charges",
+                        "share-based compensation",
+                        "certain impairment charges",
+                        "certain acquisition-related costs"
+                    ],
+                    "intersegment_eliminations": "Intersegment sales and related gross margin on inventory are eliminated for consolidation purposes."
+                },
+                "classification": "Negative"
+            },
+            "validation_passed": true,
+            "total_tokens": 1716,
+            "prompt_tokens": 1584,
+            "status": "Success"
+        },
+        {
+            "Question": "Summarize the significant accounting policies and estimates used by the company.",
+            "answer_json_string": "{\n    \"analysis\": {\n        \"significant_accounting_policies\": [\n            \"Revenue recognition\",\n            \"Inventory valuation\",\n            \"Property, plant, and equipment depreciation\",\n            \"Goodwill and intangible assets impairment testing\",\n            \"Income taxes\",\n            \"Stock-based compensation\",\n            \"Research and development costs\"\n        ],\n        \"estimates\": [\n            \"Future cash flows for impairment testing\",\n            \"Estimates of warranty obligations\",\n            \"Estimates related to tax positions\",\n            \"Estimates of fair value for financial instruments\"\n        ]\n    },\n    \"classification\": \"Neutral\"\n}",
+            "parsed_answer_for_validation": {
+                "analysis": {
+                    "significant_accounting_policies": [
+                        "Revenue recognition",
+                        "Inventory valuation",
+                        "Property, plant, and equipment depreciation",
+                        "Goodwill and intangible assets impairment testing",
+                        "Income taxes",
+                        "Stock-based compensation",
+                        "Research and development costs"
+                    ],
+                    "estimates": [
+                        "Future cash flows for impairment testing",
+                        "Estimates of warranty obligations",
+                        "Estimates related to tax positions",
+                        "Estimates of fair value for financial instruments"
+                    ]
+                },
+                "classification": "Neutral"
+            },
+            "validation_passed": true,
+            "total_tokens": 1348,
+            "prompt_tokens": 1227,
+            "status": "Success"
+        },
+        {
+            "Question": "Highlight any major changes in accounting methods or adjustments disclosed in the notes.",
+            "answer_json_string": "{\n    \"analysis\": {\n        \"major_changes\": [\n            \"Adoption of a new accounting standard in 2025 resulting in an opening balance adjustment to retained earnings as of December 28, 2024.\",\n            \"Certain reclassifications within the Consolidated Condensed Financial Statements were made, with adjustments to prior periods to conform to the current period presentation, which had no impact on previously reported net income, cash flows, or stockholders' equity.\"\n        ]\n    },\n    \"classification\": \"Neutral\"\n}",
+            "parsed_answer_for_validation": {
+                "analysis": {
+                    "major_changes": [
+                        "Adoption of a new accounting standard in 2025 resulting in an opening balance adjustment to retained earnings as of December 28, 2024.",
+                        "Certain reclassifications within the Consolidated Condensed Financial Statements were made, with adjustments to prior periods to conform to the current period presentation, which had no impact on previously reported net income, cash flows, or stockholders' equity."
+                    ]
+                },
+                "classification": "Neutral"
+            },
+            "validation_passed": true,
+            "total_tokens": 1745,
+            "prompt_tokens": 1640,
+            "status": "Success"
+        },
+        {
+            "Question": "What contingent liabilities or off-balance-sheet arrangements are disclosed in the notes?",
+            "answer_json_string": "{\n    \"analysis\": {\n        \"contingent_liabilities\": [\n            {\n                \"type\": \"Derivative liabilities\",\n                \"amount\": 884,\n                \"classification\": \"Level 3\",\n                \"description\": \"Includes liquidated damage provisions related to the Ireland SCIP arrangement.\"\n            }\n        ],\n        \"off_balance_sheet_arrangements\": []\n    },\n    \"classification\": \"Negative\"\n}",
+            "parsed_answer_for_validation": {
+                "analysis": {
+                    "contingent_liabilities": [
+                        {
+                            "type": "Derivative liabilities",
+                            "amount": 884,
+                            "classification": "Level 3",
+                            "description": "Includes liquidated damage provisions related to the Ireland SCIP arrangement."
+                        }
+                    ],
+                    "off_balance_sheet_arrangements": []
+                },
+                "classification": "Negative"
+            },
+            "validation_passed": true,
+            "total_tokens": 1704,
+            "prompt_tokens": 1623,
+            "status": "Success"
+        },
+        {
+            "Question": "What details are provided about executive compensation structures and performance incentives?",
+            "answer_json_string": "{\n    \"analysis\": \"The provided context does not include specific details about executive compensation structures or performance incentives. It primarily discusses risks related to market conditions, internal controls, and compliance with regulations.\",\n    \"classification\": \"Neutral\"\n}",
+            "parsed_answer_for_validation": {
+                "analysis": "The provided context does not include specific details about executive compensation structures or performance incentives. It primarily discusses risks related to market conditions, internal controls, and compliance with regulations.",
+                "classification": "Neutral"
+            },
+            "validation_passed": true,
+            "total_tokens": 1726,
+            "prompt_tokens": 1679,
+            "status": "Success"
+        },
+        {
+            "Question": "Are there any controversies or shareholder concerns related to executive pay?",
+            "answer_json_string": "{\n    \"analysis\": \"The provided context does not mention any controversies or shareholder concerns related to executive pay. It primarily discusses risks associated with market conditions, internal controls, and compliance with regulations, without addressing executive compensation issues.\",\n    \"classification\": \"Neutral\"\n}",
+            "parsed_answer_for_validation": {
+                "analysis": "The provided context does not mention any controversies or shareholder concerns related to executive pay. It primarily discusses risks associated with market conditions, internal controls, and compliance with regulations, without addressing executive compensation issues.",
+                "classification": "Neutral"
+            },
+            "validation_passed": true,
+            "total_tokens": 1732,
+            "prompt_tokens": 1679,
+            "status": "Success"
+        },
+        {
+            "Question": "What insights can be gathered about the company’s governance practices and board composition?",
+            "answer_json_string": "{\n    \"analysis\": {\n        \"managementEvaluation\": \"The principal executive officer and principal financial officer have concluded that the company's disclosure controls and procedures are effective, providing reasonable assurance for timely and accurate reporting.\",\n        \"internalControl\": \"There were no changes to internal control over financial reporting that materially affected its effectiveness during the reporting period.\",\n        \"shareRepurchase\": \"The company has an ongoing authorization for share repurchase, with a significant amount remaining available, indicating a commitment to returning value to shareholders.\",\n        \"tradingArrangements\": \"No new trading plans or arrangements were adopted or terminated during the quarter, suggesting stability in governance practices.\",\n        \"sanctionsCompliance\": \"The company is compliant with US economic sanctions and has taken steps to ensure that its dealings are authorized, reflecting a commitment to ethical governance.\"\n    },\n    \"classification\": \"Positive\"\n}",
+            "parsed_answer_for_validation": {
+                "analysis": {
+                    "managementEvaluation": "The principal executive officer and principal financial officer have concluded that the company's disclosure controls and procedures are effective, providing reasonable assurance for timely and accurate reporting.",
+                    "internalControl": "There were no changes to internal control over financial reporting that materially affected its effectiveness during the reporting period.",
+                    "shareRepurchase": "The company has an ongoing authorization for share repurchase, with a significant amount remaining available, indicating a commitment to returning value to shareholders.",
+                    "tradingArrangements": "No new trading plans or arrangements were adopted or terminated during the quarter, suggesting stability in governance practices.",
+                    "sanctionsCompliance": "The company is compliant with US economic sanctions and has taken steps to ensure that its dealings are authorized, reflecting a commitment to ethical governance."
+                },
+                "classification": "Positive"
+            },
+            "validation_passed": true,
+            "total_tokens": 1855,
+            "prompt_tokens": 1682,
+            "status": "Success"
+        },
+        {
+            "Question": "Are there any notable shareholder proposals or governance concerns mentioned?",
+            "answer_json_string": "{\n    \"analysis\": \"The provided context does not mention any notable shareholder proposals or governance concerns. It primarily discusses risks related to market conditions, internal controls, and compliance with regulations, but does not highlight any specific governance issues or shareholder proposals.\",\n    \"classification\": \"Neutral\"\n}",
+            "parsed_answer_for_validation": {
+                "analysis": "The provided context does not mention any notable shareholder proposals or governance concerns. It primarily discusses risks related to market conditions, internal controls, and compliance with regulations, but does not highlight any specific governance issues or shareholder proposals.",
+                "classification": "Neutral"
+            },
+            "validation_passed": true,
+            "total_tokens": 1735,
+            "prompt_tokens": 1678,
+            "status": "Success"
+        },
+        {
+            "Question": "What forward-looking statements are included in the filing, and what assumptions do they rely on?",
+            "answer_json_string": "{\n    \"analysis\": {\n        \"forward_looking_statements\": [\n            \"business plans and strategy and anticipated benefits\",\n            \"projections of future financial performance\",\n            \"projected costs and yield trends\",\n            \"future cash requirements and capital resources\",\n            \"future products, services, and technologies\",\n            \"investment plans and impacts\",\n            \"internal and external manufacturing plans\",\n            \"future production capacity and product supply\",\n            \"supply expectations\",\n            \"plans related to Intel's foundry business\",\n            \"expected timing and impact of acquisitions and divestitures\",\n            \"expected completion and impacts of restructuring activities\",\n            \"future social and environmental performance goals\",\n            \"anticipated growth and market share trends\",\n            \"projected growth in relevant markets\",\n            \"anticipated trends related to industry capacity utilization\",\n            \"expectations regarding government incentives\",\n            \"future technology trends and developments\",\n            \"future macro environmental and economic conditions\",\n            \"geopolitical tensions and conflicts\",\n            \"tax- and accounting-related expectations\",\n            \"expectations regarding relationships with sanctioned parties\"\n        ],\n        \"assumptions\": [\n            \"successful execution of business strategies\",\n            \"accurate projections of financial performance\",\n            \"availability of capital resources\",\n            \"successful development and launch of new products\",\n            \"effective management of manufacturing and supply chains\",\n            \"positive market conditions and demand\",\n            \"favorable government policies and incentives\",\n            \"stability in geopolitical relations\",\n            \"accurate forecasting of industry trends\"\n        ]\n    },\n    \"classification\": \"Neutral\"\n}",
+            "parsed_answer_for_validation": {
+                "analysis": {
+                    "forward_looking_statements": [
+                        "business plans and strategy and anticipated benefits",
+                        "projections of future financial performance",
+                        "projected costs and yield trends",
+                        "future cash requirements and capital resources",
+                        "future products, services, and technologies",
+                        "investment plans and impacts",
+                        "internal and external manufacturing plans",
+                        "future production capacity and product supply",
+                        "supply expectations",
+                        "plans related to Intel's foundry business",
+                        "expected timing and impact of acquisitions and divestitures",
+                        "expected completion and impacts of restructuring activities",
+                        "future social and environmental performance goals",
+                        "anticipated growth and market share trends",
+                        "projected growth in relevant markets",
+                        "anticipated trends related to industry capacity utilization",
+                        "expectations regarding government incentives",
+                        "future technology trends and developments",
+                        "future macro environmental and economic conditions",
+                        "geopolitical tensions and conflicts",
+                        "tax- and accounting-related expectations",
+                        "expectations regarding relationships with sanctioned parties"
+                    ],
+                    "assumptions": [
+                        "successful execution of business strategies",
+                        "accurate projections of financial performance",
+                        "availability of capital resources",
+                        "successful development and launch of new products",
+                        "effective management of manufacturing and supply chains",
+                        "positive market conditions and demand",
+                        "favorable government policies and incentives",
+                        "stability in geopolitical relations",
+                        "accurate forecasting of industry trends"
+                    ]
+                },
+                "classification": "Neutral"
+            },
+            "validation_passed": true,
+            "total_tokens": 1546,
+            "prompt_tokens": 1231,
+            "status": "Success"
+        },
+        {
+            "Question": "Are there any specific warnings or disclaimers about forward-looking information?",
+            "answer_json_string": "{\n    \"analysis\": \"The Form 10-Q contains forward-looking statements that involve a number of risks and uncertainties. It includes disclaimers regarding the unpredictability of future financial performance, business plans, market conditions, and geopolitical tensions, among other factors. These statements are identified by words such as 'anticipate', 'expect', 'forecast', and similar expressions, indicating that actual results may differ materially from those projected.\",\n    \"classification\": \"Negative\"\n}",
+            "parsed_answer_for_validation": {
+                "analysis": "The Form 10-Q contains forward-looking statements that involve a number of risks and uncertainties. It includes disclaimers regarding the unpredictability of future financial performance, business plans, market conditions, and geopolitical tensions, among other factors. These statements are identified by words such as 'anticipate', 'expect', 'forecast', and similar expressions, indicating that actual results may differ materially from those projected.",
+                "classification": "Negative"
+            },
+            "validation_passed": true,
+            "total_tokens": 1318,
+            "prompt_tokens": 1226,
+            "status": "Success"
+        }
+    ]
+}
