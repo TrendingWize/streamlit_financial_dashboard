@@ -17,10 +17,10 @@ from langchain_openai import ChatOpenAI
 
 # --- Secrets & configuration -------------------------------------------------
 
-OPENAI_API_KEY = st.secrets.get("OPENAI_API_KEY") or os.getenv("OPENAI_API_KEY", "")
-NEO4J_URI      = st.secrets.get("NEO4J_URI")      or os.getenv("NEO4J_URI", "")
-NEO4J_USERNAME = st.secrets.get("NEO4J_USERNAME") or os.getenv("NEO4J_USERNAME", "")
-NEO4J_PASSWORD = st.secrets.get("NEO4J_PASSWORD") or os.getenv("NEO4J_PASSWORD", "")
+OPENAI_API_KEY = st.secrets.get("OPENAI_API_KEY")
+NEO4J_URI      = st.secrets.get("NEO4J_URI")      
+NEO4J_USERNAME = st.secrets.get("NEO4J_USERNAME") 
+NEO4J_PASSWORD = st.secrets.get("NEO4J_PASSWORD")
 
 # -----------------------------------------------------------------------------
 
