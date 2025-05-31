@@ -81,14 +81,9 @@ def initialize_analysis_resources():
     if APP_CONFIG is None:
         # Load FMP_API_KEY and OPENAI_API_KEY from Streamlit secrets or os.environ
         # For this example, let's assume they are set in os.environ as in your original script
-        os.environ["FMP_API_KEY"] = os.environ.get("FMP_API_KEY", "Aw0rlddPHSnxmi3VmZ6jN4u3b2vvUvxn")
-        os.environ["OPENAI_API_KEY"] = os.environ.get("OPENAI_API_KEY", "sk-proj-YOUR_KEY_HERE") # Replace with your actual key or load from secrets
-
-        # Neo4j credentials also from os.environ or st.secrets
-        os.environ["NEO4J_URI"] = os.environ.get("NEO4J_URI", "neo4j+s://f9f444b7.databases.neo4j.io")
-        os.environ["NEO4J_USER"] = os.environ.get("NEO4J_USER", "neo4j")
-        os.environ["NEO4J_PASSWORD"] = os.environ.get("NEO4J_PASSWORD", "BhpVJhR0i8NxbDPU29OtvveNE8Wx3X2axPI7mS7zXW0")
-
+        NEO4J_URI_ASK_AI_TAB       = st.secrets.get("NEO4J_URI", os.getenv("NEO4J_URI","neo4j+s://f9f444b7.databases.neo4j.io")) 
+        NEO4J_USERNAME_ASK_AI_TAB  = st.secrets.get("NEO4J_USERNAME", os.getenv("NEO4J_USERNAME",  "neo4j"))
+        NEO4J_PASSWORD_ASK_AI_TAB  = st.secrets.get("NEO4J_PASSWORD", os.getenv("NEO4J_PASSWORD",  "BhpVJhR0i8NxbDPU29OtvveNE8Wx3X2axPI7mS7zXW0"))    
         APP_CONFIG = Config() # Your Config class from the script
 
     if FDM_MODULE_INSTANCE is None and APP_CONFIG:
