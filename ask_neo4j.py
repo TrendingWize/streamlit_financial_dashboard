@@ -21,14 +21,14 @@ import streamlit as st # ADDED for Streamlit caching and session state
 # --- ENV + GLOBALS ---
 
 # Use Streamlit secrets for deployed apps, fall back to .env for local
-OPENAI_API_KEY  = st.secrets.get("OPENAI_API_KEY") or os.getenv("OPENAI_API_KEY", "")
+OPENAI_API_KEY  = st.secrets.get("OPENAI_API_KEY")
 LLM_PROVIDER='openai'
 #GOOGLE_API_KEY  = st.secrets.get("GOOGLE_API_KEY") or os.getenv("GOOGLE_API_KEY", "")
 # NEO4J creds will be passed from utils.py's get_neo4j_driver or initialized here if standalone
 
-NEO4J_URI_ASKAI      = st.secrets.get("NEO4J_URI") or os.getenv("NEO4J_URI", "")
-NEO4J_USERNAME_ASKAI = st.secrets.get("NEO4J_USERNAME") or os.getenv("NEO4J_USERNAME", "")
-NEO4J_PASSWORD_ASKAI = st.secrets.get("NEO4J_PASSWORD") or os.getenv("NEO4J_PASSWORD", "")
+NEO4J_URI_ASKAI      = st.secrets.get("NEO4J_URI") 
+NEO4J_USERNAME_ASKAI = st.secrets.get("NEO4J_USERNAME") 
+NEO4J_PASSWORD_ASKAI = st.secrets.get("NEO4J_PASSWORD") 
 
 
 VECTOR_INDEX_NAME   = "company_embedding_ix" # Or make configurable
