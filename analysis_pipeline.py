@@ -47,14 +47,9 @@ SYMBOL_PROCESSING_WORKERS = 1 # Set as needed, start with 1 for easier debugging
 # --------------------------------------------------------------------------- #
 symbol='AAL' # Can be a list of symbols later
 period='annual' # 'annual' or 'quarter'
-os.environ["FMP_API_KEY"] = os.environ.get("FMP_API_KEY", "Aw0rlddPHSnxmi3VmZ6jN4u3b2vvUvxn") # Use provided or existing
-os.environ["OPENAI_API_KEY"] = os.environ.get("OPENAI_API_KEY", "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")
-
-# --- Add Neo4j Config ---
-NEO4J_URI = os.environ.get("NEO4J_URI", "neo4j+s://f9f444b7.databases.neo4j.io")
-NEO4J_USER = os.environ.get("NEO4J_USER", "neo4j")
-NEO4J_PASSWORD = os.environ.get("NEO4J_PASSWORD", "BhpVJhR0i8NxbDPU29OtvveNE8Wx3X2axPI7mS7zXW0") # Change to your password
-
+NEO4J_URI_ASK_AI_TAB       = st.secrets.get("NEO4J_URI", os.getenv("NEO4J_URI","neo4j+s://f9f444b7.databases.neo4j.io")) 
+NEO4J_USERNAME_ASK_AI_TAB  = st.secrets.get("NEO4J_USERNAME", os.getenv("NEO4J_USERNAME",  "neo4j"))
+NEO4J_PASSWORD_ASK_AI_TAB  = st.secrets.get("NEO4J_PASSWORD", os.getenv("NEO4J_PASSWORD",  "BhpVJhR0i8NxbDPU29OtvveNE8Wx3X2axPI7mS7zXW0"))
 period_back = 0
 
 
